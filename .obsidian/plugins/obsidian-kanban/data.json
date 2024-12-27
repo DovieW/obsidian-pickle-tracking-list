@@ -1,0 +1,5 @@
+{
+  "new-line-trigger": "enter",
+  "tag-action": "kanban",
+  "move-tags": true
+}
