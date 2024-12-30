@@ -1125,6 +1125,10 @@ kanban-plugin: board
 	
 	#mt_olive #baby #mild #5oz
 	![a|140](https://i.imgur.com/3I5gIuT.png)
+- [ ] Galil Kosher Dill Pickle Gherkins Small - Can't find online
+	
+	#gherkins #mild #galil #46oz
+![a|160](https://i.imgur.com/t5jp64x.png)
 
 
 ## Ok
