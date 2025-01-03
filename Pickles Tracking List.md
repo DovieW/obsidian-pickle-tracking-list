@@ -742,10 +742,6 @@ kanban-plugin: board
 	
 	#mt_olive #mild #24oz #slices 
 	![a|140](https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2020/09/LF00286.003_24_KosherDillSliders_1200x1600.png)
-- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/)
-	
-	#mt_olive #24oz #mild #spears
-	![a|140](https://i.imgur.com/RuHsNZi.png)
 - [ ] [Mt. Olive Kosher Dill Spears with Sea Salt](https://www.mtolivepickles.com/pickle-products/sea-salt-kosher-dill-spears/)
 	
 	#mt_olive #24oz #mild #spears
@@ -1121,6 +1117,10 @@ kanban-plugin: board
 	
 	#24oz #mild #haddar #jewish #chips 
 	![a|100](https://www.kayco.com/wp-content/uploads/import/media/640151-1000x952.png)
+- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/) - very smooth and mild, easy to eat, good with chulent
+	
+	#mt_olive #24oz #mild #spears
+	![a|140](https://i.imgur.com/RuHsNZi.png)
 - [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Kosher Petite Dills](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-kosher-petite-dills/)
 	
 	#mt_olive #baby #mild #5oz
