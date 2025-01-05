@@ -1093,10 +1093,6 @@ kanban-plugin: board
 	
 	#shams #50oz #jewish #spicy #baby
 	![a|110](https://i.imgur.com/6CLtybn.png)
-- [ ] [Oh Snap! Sassy Bites](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B08RMN2YN6/ref=sr_1_10?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-10)
-	
-	#oh_snap #spicy #chips #sweet
-	![a|180](https://i.imgur.com/ugjTVdV.png)
 - [ ] [Trader Joe's Kosher Dill Pickles](https://www.traderjoes.com/home/products/pdp/kosher-dill-pickles-020459)
 	
 	#trader_joes #24oz #mild #gherkins 
@@ -1133,6 +1129,10 @@ kanban-plugin: board
 
 ## Ok
 
+- [ ] [Oh Snap! Sassy Bites](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B08RMN2YN6/ref=sr_1_10?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-10)
+	
+	#oh_snap #spicy #chips #sweet
+	![a|180](https://i.imgur.com/ugjTVdV.png)
 - [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Chips](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-chips)
 	
 	#vlasic #spicy #chips 
