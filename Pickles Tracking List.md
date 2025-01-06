@@ -1160,7 +1160,7 @@ kanban-plugin: board
 - [ ] Bnei Darom Sliced Cucumbers In Brine - Too salty
 	
 	#bnei_darom #chips #mild #20oz #israeli
-
+![a|170](https://i.imgur.com/EyhP8hS.jpeg)
 ## Bad
 
 - [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - doesn't work. too sour
