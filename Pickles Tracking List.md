@@ -1157,7 +1157,9 @@ kanban-plugin: board
 	
 	#24oz #haddar #jewish #spicy #sweet #chips
 	![a|100](https://www.kayco.com/wp-content/uploads/import/media/640153-1000x952.png)
-
+- [ ] Bnei Darom Sliced Cucumbers In Brine - Too salty
+	
+	#bnei_darom #chips #mild #20oz #israeli
 
 ## Bad
 
