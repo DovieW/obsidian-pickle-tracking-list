@@ -278,10 +278,6 @@ kanban-plugin: board
 	
 	#krunchy #sour #wholes #jewish 
 	![a|150](https://i.imgur.com/1Ra9aBl.png)
-- [ ] [Fer-Real Fermented Pickles](https://www.shopevergreenkosher.com/search/pickles?catalogProduct=2401855)
-	
-	#fer-real #sour #wholes #jewish #wholes 
-	![a|100](https://i.imgur.com/SzijnXZ.png)
 - [ ] [Bubbies Kosher Dill Pickles](https://www.bubbies.com/products/kosher-dill-pickles)
 	
 	#bubbies #sour #wholes 
@@ -1048,6 +1044,10 @@ kanban-plugin: board
 
 ## Good
 
+- [ ] [Fer-Real Fermented Sour Pickles](https://www.shopevergreenkosher.com/search/pickles?catalogProduct=2401855)
+	
+	#fer-real #sour #wholes #jewish #wholes #48oz #32oz 	
+	![a|170](https://i.imgur.com/4mFoKCz.png)
 - [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero) - has a very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	![a|200](https://i.imgur.com/o4qRge8.png)
