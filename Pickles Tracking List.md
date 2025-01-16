@@ -1123,6 +1123,10 @@ kanban-plugin: board
 
 ## Ok
 
+- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - a bit sweet and sour but ok
+	
+	#wickles #spicy #baby 
+	![a|125](https://i.imgur.com/S2zRcAH.png)
 - [ ] [Van Holten's BIG PAPA
 	HEARTY DILL PICKLE](https://vanholtenpickles.com/big-papa-pickle/) - ok, its edible
 	
@@ -1145,10 +1149,6 @@ kanban-plugin: board
 	
 	#vlasic #spicy 
 	![a|150](https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-58974.png)
-- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600)
-	
-	#great_value #mild  #chips 
-	![a|160](https://i.imgur.com/A9gQfma.png)
 - [ ] [Great Value Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Whole-Dill-Pickles-46-oz/139654716?classType=REGULAR&athbdg=L1600)
 	
 	#great_value #mild #wholes 
@@ -1165,10 +1165,10 @@ kanban-plugin: board
 
 ## Bad
 
-- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - doesn't work. too sour
+- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste
 	
-	#wickles #spicy #baby 
-	![a|125](https://i.imgur.com/S2zRcAH.png)
+	#great_value #mild  #chips 
+	![a|160](https://i.imgur.com/A9gQfma.png)
 - [ ] [Vlasic Zesty Dill Spears](https://www.vlasic.com/pickles/zesty-dill-spears)
 	
 	
