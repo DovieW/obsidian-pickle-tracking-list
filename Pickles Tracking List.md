@@ -1121,7 +1121,7 @@ kanban-plugin: board
 	![a|160](https://i.imgur.com/t5jp64x.png)
 
 
-## Ok
+## Ok - Wouldn't Buy
 
 - [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - a bit sweet and sour but ok
 	
@@ -1163,9 +1163,9 @@ kanban-plugin: board
 	![a|170](https://i.imgur.com/EyhP8hS.jpeg)
 
 
-## Bad
+## Bad - Wouldn't Eat
 
-- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste
+- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste, edible but barely
 	
 	#great_value #mild  #chips 
 	![a|160](https://i.imgur.com/A9gQfma.png)
