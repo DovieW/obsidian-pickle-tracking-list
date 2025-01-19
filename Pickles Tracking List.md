@@ -948,14 +948,14 @@ kanban-plugin: board
 	
 	#bg #sweet #chips #24oz #16oz 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500002645.png)
-- [ ] [B&G Hamburger Dill Pickle Chips](https://bgpickles.com/product/hamburger-dill-pickle-chips/)
-	
-	#bg #chips #mild #16oz
-	![a|150](https://bgpickles.com/wp-content/uploads/product-31500005714-1.png)
 - [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/)
 	
 	#bg #16oz #mild #spears #24oz #32oz 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003147.png)
+- [ ] [B&G Hamburger Dill Pickle Chips](https://bgpickles.com/product/hamburger-dill-pickle-chips/)
+	
+	#bg #chips #mild #16oz
+	![a|150](https://bgpickles.com/wp-content/uploads/product-31500005714-1.png)
 - [ ] [B&G Bread & Butter Sandwich Toppers](https://bgpickles.com/product/bread-butter-sandwich-toppers/)
 	
 	#bg #slices #mild #16oz
