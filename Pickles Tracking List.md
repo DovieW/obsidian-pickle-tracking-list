@@ -968,10 +968,6 @@ kanban-plugin: board
 	
 	#bg #16oz #gherkins #mild 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500001105-1.png)
-- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/)
-	
-	#bg #16oz #wholes #24oz #32oz 
-	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003024.png)
 - [ ] [B&G Mrs. Fannings Bread & Butter Pickles](https://bgpickles.com/product/mrs-fannings-bread-butter-pickles/)
 	
 	#bg #12oz #sweet #chips 
@@ -1091,7 +1087,11 @@ kanban-plugin: board
 	
 	#trader_joes #24oz #mild #gherkins 
 	![a|100](https://www.traderjoes.com/content/dam/trjo/products/m20902/20459.png/jcr:content/renditions/webp-1280.webp)
-- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/)
+- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/) - very mild. reminds me of corn
+	
+	#bg #16oz #wholes #24oz #32oz 
+	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003024.png)
+- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/) - strong specific taste
 	
 	#bg #wholes #32oz #mild
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003369-1.png)
