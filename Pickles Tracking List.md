@@ -948,10 +948,6 @@ kanban-plugin: board
 	
 	#bg #sweet #chips #24oz #16oz 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500002645.png)
-- [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/)
-	
-	#bg #16oz #mild #spears #24oz #32oz 
-	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003147.png)
 - [ ] [B&G Hamburger Dill Pickle Chips](https://bgpickles.com/product/hamburger-dill-pickle-chips/)
 	
 	#bg #chips #mild #16oz
@@ -1087,6 +1083,10 @@ kanban-plugin: board
 	
 	#trader_joes #24oz #mild #gherkins 
 	![a|100](https://www.traderjoes.com/content/dam/trjo/products/m20902/20459.png/jcr:content/renditions/webp-1280.webp)
+- [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/) - very mild, very little crunch
+	
+	#bg #16oz #mild #spears #24oz #32oz 
+	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003147.png)
 - [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/) - very mild. reminds me of corn
 	
 	#bg #16oz #wholes #24oz #32oz 
