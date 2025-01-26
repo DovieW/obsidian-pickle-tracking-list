@@ -68,6 +68,8 @@ kanban-plugin: board
 	#osem
 - [ ] Williamsburg Pickles DON'T BUY
 	#williamsburg_pickles
+- [ ] Imperial - DON'T BUY
+	#imperial
 
 
 ## Not Rated
@@ -1186,6 +1188,10 @@ kanban-plugin: board
 	
 	#pouch #mt_olive #mild
 	![a|140](https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png)
+- [ ] Imperial Petite Dill Gherkins - bad. edible but too vinegary
+	
+	#imperial #24oz #mild #baby
+	![a|150](https://i.imgur.com/Qo6CYEj.png)
 
 
 ## Other
