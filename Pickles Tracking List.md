@@ -392,7 +392,7 @@ kanban-plugin: board
 	
 	#bnei_darom #10oz #israeli #jewish #mild
 	![a|150](https://i.imgur.com/HTaI1ms.png)
-- [ ] Wickles Wicked Hula Pickles
+- [ ] [Wickles Wicked Hula Pickles](https://wicklespickles.com/product/wicked-hula-pickles-16-oz/
 	
 	#wickles #spicy #sweet #16oz #chips 
 	![a|150](https://wicklespickles.com/wp-content/uploads/2022/03/Wickles-Wicked-Hula-Pickles-16oz-2.png)
@@ -529,20 +529,11 @@ kanban-plugin: board
 	
 	#suckerpunch #3oz #pouch #mild #chips 
 	![a|150](https://suckerpunchpickles.com/cdn/shop/files/SP_PicklePack_KosherDill.png?v=1697220075&width=1200)
-- [ ] [Suckerpunch Fiery Hot 3-Pepper Snack Pack](https://suckerpunchpickles.com/products/3-pepper-fire-pickle-chips?variant=32933502124137)
-	
-	#suckerpunch #pouch #3oz #spicy #chips 
-	![a|150](https://suckerpunchpickles.com/cdn/shop/files/SP_PicklePack_ThreePepper.png?v=1697219927&width=1200)
 - [ ] [Suckerpunch Fiery Heat Three Pepper Chips](https://suckerpunchpickles.com/products/fiery-heat-three-pepper-chips)
 	
 	#suckerpunch #24oz #spicy #chips 
 	
 	![a|150](https://suckerpunchpickles.com/cdn/shop/files/image004.png?v=1689268285&width=1200)
-- [ ] [Suckerpunch Fiery Heat Three Pepper Spears](https://suckerpunchpickles.com/products/suckerpunch-gourmet-fire-spears3-pepper-fire-spears)
-	
-	#suckerpunch #spicy #24oz #spears 
-	
-	![a|150](https://suckerpunchpickles.com/cdn/shop/products/SP_Pickles_ThreePepper_FRONT.png?v=1609623731&width=1200)
 - [ ] [Suckerpunch Arbol Pepper Spicy Dill Spears](https://suckerpunchpickles.com/products/suckerpunch-gourmet-garlic-dill-fire-spears)
 	
 	#spears #suckerpunch #24oz #spicy 
@@ -1026,14 +1017,14 @@ kanban-plugin: board
 	
 	#trader_joes #mild #16oz #slices 
 	![a|100](https://www.traderjoes.com/content/dam/trjo/products/m20902/91072.png/jcr:content/renditions/webp-1280.webp)
-- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) - Seasonal
-	
-	#trader_joes #spicy #gherkins
-	![a|170](https://i.imgur.com/wucNZnl.png)
 - [ ] [B&G Kosher Dill Sandwich Toppers](https://bgpickles.com/product/kosher-dill-sandwich-toppers/)
 	
 	#bg #16oz #slices #mild 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003161-1.png)
+- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) - Seasonal
+	
+	#trader_joes #spicy #gherkins
+	![a|170](https://i.imgur.com/wucNZnl.png)
 
 
 ## Good
@@ -1171,6 +1162,15 @@ kanban-plugin: board
 	
 	#great_value #mild  #chips 
 	![a|160](https://i.imgur.com/A9gQfma.png)
+- [ ] [Suckerpunch Fiery Hot 3-Pepper Snack Pack](https://suckerpunchpickles.com/products/3-pepper-fire-pickle-chips?variant=32933502124137)
+	
+	#suckerpunch #pouch #3oz #spicy #chips 
+	![a|150](https://suckerpunchpickles.com/cdn/shop/files/SP_PicklePack_ThreePepper.png?v=1697219927&width=1200)
+- [ ] [Suckerpunch Fiery Heat Three Pepper Spears](https://suckerpunchpickles.com/products/suckerpunch-gourmet-fire-spears3-pepper-fire-spears)
+	
+	#suckerpunch #spicy #24oz #spears 
+	
+	![a|150](https://suckerpunchpickles.com/cdn/shop/products/SP_Pickles_ThreePepper_FRONT.png?v=1609623731&width=1200)
 - [ ] [Vlasic Zesty Dill Spears](https://www.vlasic.com/pickles/zesty-dill-spears)
 	
 	
