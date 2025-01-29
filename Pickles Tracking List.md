@@ -1305,6 +1305,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,null,null,null,true,false],"full-list-lane-width":false,"inline-metadata-position":"body","new-line-trigger":"enter","move-tags":true,"tag-action":"kanban"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,null,null,true,false],"full-list-lane-width":false,"inline-metadata-position":"body","new-line-trigger":"enter","move-tags":true,"tag-action":"kanban"}
 ```
 %%
