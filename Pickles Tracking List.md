@@ -486,7 +486,7 @@ kanban-plugin: board
 	![a|150](https://i.imgur.com/DiyS2Dg.png)
 - [ ] [Grillo's Dill Halves](https://www.grillos.com/product/dill-halves/)
 	
-	#grillos #32oz #mild #haddar
+	#grillos #32oz #mild #halves 
 	![a|150](https://i.imgur.com/Dp24Xym.png)
 - [ ] [Grillo's Half Sour Wholes](https://www.grillos.com/product/half-sour-wholes/)
 	
