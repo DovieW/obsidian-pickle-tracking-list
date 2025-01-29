@@ -1021,7 +1021,7 @@ kanban-plugin: board
 	
 	#bg #16oz #slices #mild 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003161-1.png)
-- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) - Seasonal
+- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) - Seasonal. very spicy
 	
 	#trader_joes #spicy #gherkins
 	![a|170](https://i.imgur.com/wucNZnl.png)
