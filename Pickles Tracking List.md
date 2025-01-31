@@ -1108,7 +1108,7 @@ kanban-plugin: board
 	
 	#gherkins #mild #galil #46oz
 	![a|160](https://i.imgur.com/t5jp64x.png)
-- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/)
+- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/) - Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
 	
 	#ba-tampte #sour #halves #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
