@@ -260,10 +260,6 @@ kanban-plugin: board
 	
 	#ba-tampte #sour #wholes #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-5.png)
-- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/)
-	
-	#ba-tampte #sour #halves #jewish 
-	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
 - [ ] [Ba-Tampte Deli Wholes](https://batamptepickle.com/deli-wholes/)
 	
 	#ba-tampte #sour #wholes #jewish  
@@ -1112,6 +1108,10 @@ kanban-plugin: board
 	
 	#gherkins #mild #galil #46oz
 	![a|160](https://i.imgur.com/t5jp64x.png)
+- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/)
+	
+	#ba-tampte #sour #halves #jewish 
+	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
 
 
 ## Ok - Wouldn't Buy
