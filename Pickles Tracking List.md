@@ -701,10 +701,6 @@ kanban-plugin: board
 	
 	#gherkins #mt_olive #66oz #mild
 	![a|140](https://i.imgur.com/zbDIXqU.png)
-- [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
-	
-	#16oz #mt_olive #mild #gherkins
-	![a|140](https://i.imgur.com/pXTu8Ys.png)
 - [ ] [Mt. Olive Kosher Dill Hamburger Stuffers](https://www.mtolivepickles.com/pickle-products/kosher-dill-hamburger-stuffers/)
 	
 	#mt_olive #24oz #mild #chips
@@ -981,6 +977,10 @@ kanban-plugin: board
 
 ## Best
 
+- [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
+	
+	#16oz #mt_olive #mild #gherkins #24oz 
+	![a|140](https://i.imgur.com/pXTu8Ys.png)
 - [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Buffalo Kosher Dill Chips](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-buffalo-kosher-dill-chips/)
 	
 	#mt_olive #spicy #chips #5oz
