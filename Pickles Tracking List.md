@@ -1064,7 +1064,7 @@ kanban-plugin: board
 	
 	#50oz #shams #baby #mild #jewish 
 	![a|110](https://i.imgur.com/SxiV2c4.png)
-- [ ] [Shams Spicy Gherkins Mini Pickled Cucumbers](https://www.shopevergreenkosher.com/search/liebers%20pickle?catalogProduct=786712)
+- [ ] [Shams Spicy Gherkins Mini Pickled Cucumbers](https://www.shopevergreenkosher.com/search/liebers%20pickle?catalogProduct=786712) - has another [look](https://i.imgur.com/SFhAXlf.png) I think
 	
 	#shams #50oz #jewish #spicy #baby
 	![a|110](https://i.imgur.com/6CLtybn.png)
