@@ -989,26 +989,6 @@ kanban-plugin: board
 	
 	#wickles #spicy #gherkins 
 	![a|125](https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-BabyDills-v3_445x600.png)
-- [ ] [Oh Snap! Hottie Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07GTJL3SY/ref=sr_1_5?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-5)
-	
-	#oh_snap #spicy #3oz #chips
-	![a|180](https://i.imgur.com/jDCloDU.png)
-- [ ] [Oh Snap! Gone Dilly](https://www.amazon.com/Pickle-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B01CTR0FNI/ref=sr_1_9?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-9)
-	
-	#oh_snap #3oz #wholes #mild
-	![a|180](https://i.imgur.com/kVgTdkV.png)
-- [ ] [Oh Snap! Hottie](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B075RGP3MN/ref=sr_1_19?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-19)
-	
-	#oh_snap #spicy #wholes #3oz
-	![a|180](https://i.imgur.com/UjDyDvB.png)
-- [ ] [Haddar Fiery Spicy Pickle Chips Pouch](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-pouch/)
-	
-	#3oz #haddar #pouch #spicy #chips #jewish 
-	![a|100](https://www.kayco.com/wp-content/uploads/import/media/640142.png)
-- [ ] [Oh Snap! Dilly Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07BCX2DSY/ref=sr_1_34?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.125XccJQnzTEBiOAMtGYwcLERQF9LNidUvehUwb60AWiGJwmT6zO3DJLFS2X4_P7Xx6-_uhi5fhLM7YMaPzexP1ICFe86K2aw7T49WnOGyPTZT1OQj8XftHlj0XPnwwY2ZY8yCEuXcG_COP0Lj-RpMlmIwXfny0udBw2XAJwMOqpQmnAW4yn4q4pDrlhrlI8v3nrHNqdVjVABLz68XQJ2KvGqcA6zI26Ai7n3USJruY.bPfb2oLk7bk56fhzIAoMCiqB1ufP_waOseUVEYA2yVU&dib_tag=se&keywords=oh+snap&qid=1735147808&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-34&xpid=lwdV159FbcPxp)
-	
-	#oh_snap #3oz #chips #mild
-	![a|180](https://i.imgur.com/tbDydoS.png)
 - [ ] [Trader Joe's Organic Kosher Sandwich Pickles](https://www.traderjoes.com/home/products/pdp/organic-kosher-sandwich-pickles-091072)
 	
 	#trader_joes #mild #16oz #slices 
@@ -1029,6 +1009,26 @@ kanban-plugin: board
 	
 	#fer-real #sour #wholes #jewish #wholes #48oz #32oz 	
 	![a|170](https://i.imgur.com/4mFoKCz.png)
+- [ ] [Oh Snap! Dilly Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07BCX2DSY/ref=sr_1_34?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.125XccJQnzTEBiOAMtGYwcLERQF9LNidUvehUwb60AWiGJwmT6zO3DJLFS2X4_P7Xx6-_uhi5fhLM7YMaPzexP1ICFe86K2aw7T49WnOGyPTZT1OQj8XftHlj0XPnwwY2ZY8yCEuXcG_COP0Lj-RpMlmIwXfny0udBw2XAJwMOqpQmnAW4yn4q4pDrlhrlI8v3nrHNqdVjVABLz68XQJ2KvGqcA6zI26Ai7n3USJruY.bPfb2oLk7bk56fhzIAoMCiqB1ufP_waOseUVEYA2yVU&dib_tag=se&keywords=oh+snap&qid=1735147808&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-34&xpid=lwdV159FbcPxp)
+	
+	#oh_snap #3oz #chips #mild
+	![a|180](https://i.imgur.com/tbDydoS.png)
+- [ ] [Haddar Fiery Spicy Pickle Chips Pouch](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-pouch/)
+	
+	#3oz #haddar #pouch #spicy #chips #jewish 
+	![a|100](https://www.kayco.com/wp-content/uploads/import/media/640142.png)
+- [ ] [Oh Snap! Hottie](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B075RGP3MN/ref=sr_1_19?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-19)
+	
+	#oh_snap #spicy #wholes #3oz
+	![a|180](https://i.imgur.com/UjDyDvB.png)
+- [ ] [Oh Snap! Hottie Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07GTJL3SY/ref=sr_1_5?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-5)
+	
+	#oh_snap #spicy #3oz #chips
+	![a|180](https://i.imgur.com/jDCloDU.png)
+- [ ] [Oh Snap! Gone Dilly](https://www.amazon.com/Pickle-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B01CTR0FNI/ref=sr_1_9?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-9)
+	
+	#oh_snap #3oz #wholes #mild
+	![a|180](https://i.imgur.com/kVgTdkV.png)
 - [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero) - has a very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	![a|200](https://i.imgur.com/o4qRge8.png)
