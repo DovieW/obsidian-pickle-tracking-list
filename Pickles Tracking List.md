@@ -424,10 +424,6 @@ kanban-plugin: board
 	
 	#galil #mild #24oz #jewish
 	![a|160](https://i.imgur.com/kjJcZ46.png)
-- [ ] [Claussen Kosher Dill Deli-Style Pickle Halves](https://www.kraftheinz.com/claussen/products/00044700092835-kosher-dill-deli-style-pickle-halves) - [32oz](https://www.kraftheinz.com/claussen/products/00044700092057-kosher-dill-pickle-halves)
-	
-	#claussen #halves #mild #sour #64oz #32oz 
-	![a|160](https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092835-kosher-dill-deli-style-pickle-halves/marketing-view-color-front_c0ea444816a0b7fd072e2494376bfed39a803008_638c4d285840a61c74b8d609cbeff9f6?_a=BAVAfVDW0)
 - [ ] [Claussen Kosher Dill Pickle Sandwich Slices](https://www.kraftheinz.com/claussen/products/00044700092194-kosher-dill-pickle-sandwich-slices)
 	
 	#claussen #sour #slices #mild #24oz 
@@ -1116,6 +1112,10 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
+- [ ] [Claussen Kosher Dill Deli-Style Pickle Halves](https://www.kraftheinz.com/claussen/products/00044700092835-kosher-dill-deli-style-pickle-halves) - [32oz](https://www.kraftheinz.com/claussen/products/00044700092057-kosher-dill-pickle-halves) - Not spiced right. Too hard, not crunchy. And a bit annoying vinegary taste.
+	
+	#claussen #halves #mild #sour #64oz #32oz 
+	![a|160](https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092835-kosher-dill-deli-style-pickle-halves/marketing-view-color-front_c0ea444816a0b7fd072e2494376bfed39a803008_638c4d285840a61c74b8d609cbeff9f6?_a=BAVAfVDW0)
 - [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - a bit sweet and sour but ok
 	
 	#wickles #spicy #baby 
