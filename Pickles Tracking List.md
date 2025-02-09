@@ -975,13 +975,17 @@ kanban-plugin: board
 
 - [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
 	
+	Very solid
+	
 	#16oz #mt_olive #mild #gherkins #24oz 
 	![a|140](https://i.imgur.com/pXTu8Ys.png)
 - [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Buffalo Kosher Dill Chips](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-buffalo-kosher-dill-chips/)
 	
 	#mt_olive #spicy #chips #5oz
 	![a|140](https://i.imgur.com/REQuNNF.png)
-- [ ] [Wickle Dirty Dill Baby Dills](https://wicklespickles.com/product/dirty-dill-baby-dills-24oz/) - Strong but not like the original wickles. very good.
+- [ ] [Wickle Dirty Dill Baby Dills](https://wicklespickles.com/product/dirty-dill-baby-dills-24oz/) 
+	
+	Strong but not like the original wickles. very good.
 	
 	#wickles #spicy #gherkins 
 	![a|125](https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-BabyDills-v3_445x600.png)
@@ -993,7 +997,9 @@ kanban-plugin: board
 	
 	#bg #16oz #slices #mild 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003161-1.png)
-- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) - Seasonal. very spicy
+- [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) 
+	
+	TJ Seasonal. very spicy
 	
 	#trader_joes #spicy #gherkins
 	![a|170](https://i.imgur.com/wucNZnl.png)
@@ -1025,7 +1031,9 @@ kanban-plugin: board
 	
 	#oh_snap #3oz #wholes #mild
 	![a|180](https://i.imgur.com/kVgTdkV.png)
-- [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero) - has a very clean taste. easy to snack on.
+- [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero)
+	
+	Very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	![a|200](https://i.imgur.com/o4qRge8.png)
 - [ ] [Van Holten's HEARTY DILL PICKLE](https://vanholtenpickles.com/dill-pickle/)
@@ -1060,7 +1068,9 @@ kanban-plugin: board
 	
 	#50oz #shams #baby #mild #jewish 
 	![a|110](https://i.imgur.com/SxiV2c4.png)
-- [ ] [Shams Spicy Gherkins Mini Pickled Cucumbers](https://www.shopevergreenkosher.com/search/liebers%20pickle?catalogProduct=786712) - has another [look](https://i.imgur.com/SFhAXlf.png) I think
+- [ ] [Shams Spicy Gherkins Mini Pickled Cucumbers](https://www.shopevergreenkosher.com/search/liebers%20pickle?catalogProduct=786712) 
+	
+	Has another [look](https://i.imgur.com/SFhAXlf.png) I think
 	
 	#shams #50oz #jewish #spicy #baby
 	![a|110](https://i.imgur.com/6CLtybn.png)
@@ -1072,11 +1082,15 @@ kanban-plugin: board
 	
 	#bg #16oz #mild #spears #24oz #32oz 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003147.png)
-- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/) - very mild. reminds me of corn
+- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/)
+	
+	Very mild. reminds me of corn
 	
 	#bg #16oz #wholes #24oz #32oz 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003024.png)
-- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/) - strong specific taste
+- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/) 
+	
+	Strong specific taste
 	
 	#bg #wholes #32oz #mild
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003369-1.png)
@@ -1092,7 +1106,9 @@ kanban-plugin: board
 	
 	#24oz #mild #haddar #jewish #chips 
 	![a|100](https://www.kayco.com/wp-content/uploads/import/media/640151-1000x952.png)
-- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/) - very smooth and mild, easy to eat, good with chulent
+- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/)
+	
+	Very smooth and mild, easy to eat, good with chulent
 	
 	#mt_olive #24oz #mild #spears
 	![a|140](https://i.imgur.com/RuHsNZi.png)
@@ -1100,11 +1116,15 @@ kanban-plugin: board
 	
 	#mt_olive #baby #mild #5oz
 	![a|140](https://i.imgur.com/3I5gIuT.png)
-- [ ] Galil Kosher Dill Pickle Gherkins Small - Can't find online - Interesting horseradish taste
+- [ ] Galil Kosher Dill Pickle Gherkins Small
+	
+	Can't find online - Interesting horseradish taste
 	
 	#gherkins #mild #galil #46oz
 	![a|160](https://i.imgur.com/t5jp64x.png)
-- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/) - Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
+- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/) 
+	
+	Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
 	
 	#ba-tampte #sour #halves #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
@@ -1112,16 +1132,22 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
-- [ ] [Claussen Kosher Dill Deli-Style Pickle Halves](https://www.kraftheinz.com/claussen/products/00044700092835-kosher-dill-deli-style-pickle-halves) - [32oz](https://www.kraftheinz.com/claussen/products/00044700092057-kosher-dill-pickle-halves) - Not spiced right. Too hard, not crunchy. And a bit annoying vinegary taste.
+- [ ] [Claussen Kosher Dill Deli-Style Pickle Halves](https://www.kraftheinz.com/claussen/products/00044700092835-kosher-dill-deli-style-pickle-halves) - [32oz](https://www.kraftheinz.com/claussen/products/00044700092057-kosher-dill-pickle-halves)
+	
+	Not spiced right. Too hard, not crunchy. And a bit annoying vinegary taste. it can be good, but mostly not
 	
 	#claussen #halves #mild #sour #64oz #32oz 
 	![a|160](https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092835-kosher-dill-deli-style-pickle-halves/marketing-view-color-front_c0ea444816a0b7fd072e2494376bfed39a803008_638c4d285840a61c74b8d609cbeff9f6?_a=BAVAfVDW0)
-- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/) - a bit sweet and sour but ok
+- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/)
+	
+	Bit sweet and sour but ok
 	
 	#wickles #spicy #baby 
 	![a|125](https://i.imgur.com/S2zRcAH.png)
 - [ ] [Van Holten's BIG PAPA
-	HEARTY DILL PICKLE](https://vanholtenpickles.com/big-papa-pickle/) - ok, its edible
+	HEARTY DILL PICKLE](https://vanholtenpickles.com/big-papa-pickle/)
+	
+	ok, its edible
 	
 	#van_holtens #mild #wholes #pouch 
 	
