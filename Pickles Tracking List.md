@@ -16,6 +16,8 @@ kanban-plugin: board
 	#ba-tampte
 - [ ] [Bnei Darom](https://www.google.com/search?sca_esv=561616a420ba62d3&rlz=1C1ONGR_enUS1111US1111&sxsrf=ADLYWIKVNaM8i5xUoPGwk3IGHfS2_-mbdg:1735112932875&q=bnei+darom&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J5_cJreBOGYq6XK4Eyx3ZWD2Kpzfwhd4a3MYNhLbt0VbFkFa2PXZHhAcz51BbxKB9qjAfuJtih4tWlzGCYuP-ALBUrKfCJ1iZIEcwgb7R8cE-h8pGD3kVM0m4PKbrsFn5lRSoBTYStn3sOPYU8C51R8b8MquVHHzp4XiNjbcfi18O9m_4Q&sa=X&ved=2ahUKEwiViImwt8KKAxWDk4kEHVGlABkQtKgLegQIDRAB&biw=1278&bih=1270&dpr=1.5)
 	#bnei_darom
+- [ ] [Boar's Head](https://boarshead.com/products/condiments?health=kosher)
+	#boars_head
 - [ ] [Bubbies](https://www.bubbies.com/products-category/pickles)
 	#bubbies
 - [ ] [Claussen](https://www.kraftheinz.com/claussen/products)
@@ -64,12 +66,12 @@ kanban-plugin: board
 	#wickles
 - [ ] Golden Taste DON'T BUY
 	#golden_taste
+- [ ] Imperial - DON'T BUY
+	#imperial
 - [ ] Osem DO THEY MAKE PICKLES? [1](https://www.kroger.com/p/osem-mediterranean-small-pickles/0007693700281)
 	#osem
 - [ ] Williamsburg Pickles DON'T BUY
 	#williamsburg_pickles
-- [ ] Imperial - DON'T BUY
-	#imperial
 
 
 ## Not Rated
