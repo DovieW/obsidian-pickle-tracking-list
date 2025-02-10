@@ -971,6 +971,22 @@ kanban-plugin: board
 	
 	#wholes #bg #32oz #mild 
 	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003314-1.png)
+- [ ] [Boar's Head Kosher Dill Pickles Whole](https://boarshead.com/products/condiments/487-kosher-dill-pickle-whole-26oz-jar)
+	
+	#26oz #mild #wholes #boars_head #wish_list 
+	![a|160](https://i.imgur.com/XdnbFdI.png)
+- [ ] [Boar's Head Kosher Dill Pickles Spears](https://boarshead.com/products/condiments/486-kosher-dill-pickles-spears-26-oz-jar)
+	
+	#boars_head #26oz #mild #spears #wish_list 
+	![a|160](https://i.imgur.com/NWgYcTw.png)
+- [ ] [Boar's Head Kosher Dill Pickle Chips](https://boarshead.com/products/condiments/16261-kosher-dill-pickle-chip)
+	
+	#26oz #chips #mild #boars_head #wish_list 
+	![a|160](https://i.imgur.com/wSzjd75.png)
+- [ ] [Boar's Head Spicy Dill Pickle Spears](https://boarshead.com/products/condiments/1221975904-spicy-dill-pickle-spears)
+	
+	#boars_head #spears #spicy #26oz #wish_list
+	![a|160](https://i.imgur.com/CUChLYm.png)
 
 
 ## Best
@@ -1060,7 +1076,7 @@ kanban-plugin: board
 	![a|150](https://flaums.com/wp-content/uploads/2024/07/DSC_7886-1.png)
 - [ ] [Ba-Tampte Garlic Dill](https://batamptepickle.com/garlic-dill/)
 	
-	#ba-tampte #sour #wholes #jewish 
+	#ba-tampte #sour_mimic #mild  #wholes #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-4.png)
 - [ ] [Haddar Fiery Spicy Pickle Chips Tub](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-tub/)
 	
@@ -1128,8 +1144,14 @@ kanban-plugin: board
 	
 	Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
 	
-	#ba-tampte #sour #halves #jewish 
+	#ba-tampte #sour_mimic #mild  #halves #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
+- [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
+	
+	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
+	
+	#boars_head #26oz #mild #halves #sour_mimic 
+	![a|160](https://i.imgur.com/H3U7yET.png)
 
 
 ## Ok - Wouldn't Buy
@@ -1284,6 +1306,8 @@ kanban-plugin: board
 	#israeli
 - [ ] Jewish Owned (Orthodox)
 	#jewish
+- [ ] Sour Mimic
+	#sour_mimic
 
 
 ## Size
@@ -1304,6 +1328,8 @@ kanban-plugin: board
 	#23oz
 - [ ] 24 Oz
 	#24oz
+- [ ] 26 Oz
+	#26oz
 - [ ] 32 Oz
 	#32oz
 - [ ] 46 Oz
@@ -1318,9 +1344,9 @@ kanban-plugin: board
 
 ## Todo
 
+**Complete**
 - [ ] Make sure all are tag correctly with size as well
-- [ ] There's one image that has a white background
-- [ ] Why doesn't it open on mobile in kanban mode?
+- [ ] Why doesn't it open on mobile in kanban mode? It does but can take a loong time if it doesn't load right away. Faster phone helps. is there anything that can be done to speed it up? Maybe don't keep images in Imgur? store locally?
 - [ ] Host images on NAS and link images to there. Would it be faster though? Would have to download about half the images which aren't on Imgur
 
 
@@ -1332,9 +1358,10 @@ kanban-plugin: board
 	
 	#wickles #spicy
 	![a|125](https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png)
+- [ ] There's one image that has a white background
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,null,null,true,false],"full-list-lane-width":false,"inline-metadata-position":"body","new-line-trigger":"enter","move-tags":true,"tag-action":"kanban"}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false,null,null,false,false],"full-list-lane-width":false,"inline-metadata-position":"body","new-line-trigger":"enter","move-tags":true,"tag-action":"kanban"}
 ```
 %%
