@@ -1146,12 +1146,6 @@ kanban-plugin: board
 	
 	#ba-tampte #sour_mimic #mild  #halves #jewish 
 	![a|130](https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png)
-- [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
-	
-	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
-	
-	#boars_head #26oz #mild #halves #sour_mimic 
-	![a|160](https://i.imgur.com/H3U7yET.png)
 
 
 ## Ok - Wouldn't Buy
@@ -1206,6 +1200,12 @@ kanban-plugin: board
 	
 	#bnei_darom #chips #mild #20oz #israeli
 	![a|93](https://i.imgur.com/9IyKhGL.png)
+- [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
+	
+	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
+	
+	#boars_head #26oz #mild #halves #sour_mimic 
+	![a|160](https://i.imgur.com/H3U7yET.png)
 
 
 ## Bad - Wouldn't Eat
