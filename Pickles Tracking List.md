@@ -30,7 +30,7 @@ kanban-plugin: board
 	#galil
 - [ ] [Gefen](https://www.kayco.com/brands/gefen/)
 	#gefen
-- [ ] [Great Value](https://www.walmart.com/search?q=great+value+pickles)
+- [ ] [Great Value](https://www.walmart.com/search?q=great+value+pickles) (Walmart)
 	#great_value
 - [ ] [Grillo's](https://www.grillos.com/products/)
 	#grillos
@@ -72,6 +72,8 @@ kanban-plugin: board
 	#osem
 - [ ] Williamsburg Pickles DON'T BUY
 	#williamsburg_pickles
+- [ ] [Market Pantry](https://www.target.com/b/market-pantry/-/N-85cegZ556seZar9j9Zve0gpZggemi?moveTo=product-list-grid) (Target)
+	#market_pantry
 
 
 ## Not Rated
@@ -987,6 +989,10 @@ kanban-plugin: board
 	
 	#boars_head #spears #spicy #26oz #wish_list
 	![a|160](https://i.imgur.com/CUChLYm.png)
+- [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
+	
+	#market_pantry #24oz #mild #spears
+	
 
 
 ## Best
