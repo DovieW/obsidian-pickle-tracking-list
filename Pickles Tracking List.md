@@ -1149,11 +1149,11 @@ kanban-plugin: board
 - [ ] [Haddar Sweet Pickle Chips Pouch](https://www.kayco.com/product/haddar-sweet-with-a-kick-horseradish-pickle-chips-pouch/)
 	
 	#haddar #spicy #sweet #pouch #3oz #jewish #chips  
-	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640145-1000x1698.jpg" width="100">
+	<img class="image" src="https://i.imgur.com/8uNNf93.png" width="100">
 - [ ] [Haddar Classic Garlic Dill Pickle Chips Pouch](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-pouch/)
 	
 	#haddar #pouch #chips #mild #jewish #3oz 
-	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640143-1000x1721.jpg" width="100">
+	<img class="image" src="https://i.imgur.com/bbRpB8c.png" width="100">
 - [ ] [Haddar Classic Garlic Dill Pickle Chips Tub](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-tub/)
 	
 	#24oz #mild #haddar #jewish #chips 
@@ -1284,11 +1284,11 @@ kanban-plugin: board
 
 - [ ] [Mt. Olive Dill Salad Cubes](https://www.mtolivepickles.com/pickle-products/dill-salad-cubes/)
 	
-	#mt_olive
+	#mt_olive #wish_list 
 	<img class="image" src="https://i.imgur.com/HiMqbR2.png" width="140">
 - [ ] [Vlasic Pickle Balls](https://www.vlasic.com/pickle-balls/pickle-balls)
 	
-	#vlasic 
+	#vlasic #wish_list 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/pickle-balls-dill-pickle-32142.png" width="150">
 - [ ] Flaum Pickled Tomato
 	
@@ -1380,8 +1380,6 @@ kanban-plugin: board
 
 **Complete**
 - [ ] Make sure all are tag correctly with size as well
-- [ ] Why doesn't it open on mobile in kanban mode? It does but can take a loong time if it doesn't load right away. Faster phone helps. is there anything that can be done to speed it up? Maybe don't keep images in Imgur? store locally?
-- [ ] Host images on NAS and link images to there. Would it be faster though? Would have to download about half the images which aren't on Imgur
 
 
 ***
@@ -1393,6 +1391,8 @@ kanban-plugin: board
 	#wickles #spicy
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
 - [ ] There's one image that has a white background
+- [ ] Host images on NAS and link images to there. Would it be faster though? Would have to download about half the images which aren't on Imgur - seems to load quite quickly on my s25 ultra
+- [ ] Why doesn't it open on mobile in kanban mode? It does but can take a loong time if it doesn't load right away. Faster phone helps. is there anything that can be done to speed it up? Maybe don't keep images in Imgur? store locally? - loads quite quickly on my s25 ultra
 
 %% kanban:settings
 ```
