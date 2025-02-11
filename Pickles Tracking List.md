@@ -1043,17 +1043,17 @@ kanban-plugin: board
 - [ ] [Trader Joe's Organic Kosher Sandwich Pickles](https://www.traderjoes.com/home/products/pdp/organic-kosher-sandwich-pickles-091072)
 	
 	#trader_joes #mild #16oz #slices 
-	<img class="center"  src="https://www.traderjoes.com/content/dam/trjo/products/m20902/91072.png/jcr:content/renditions/webp-1280.webp" width="100">
+	<img class="image"  src="https://www.traderjoes.com/content/dam/trjo/products/m20902/91072.png/jcr:content/renditions/webp-1280.webp" width="100">
 - [ ] [B&G Kosher Dill Sandwich Toppers](https://bgpickles.com/product/kosher-dill-sandwich-toppers/)
 	
 	#bg #16oz #slices #mild 
-	![a|150](https://bgpickles.com/wp-content/uploads/product-31500003161-1.png)
+	<img class="image"  src="https://bgpickles.com/wp-content/uploads/product-31500003161-1.png" width="150">
 - [ ] [Trader Joe's Spicy Kosher Dill Pickles](https://www.reddit.com/r/traderjoes/comments/1761riv/trader_joes_spicy_kosher_dill_pickles/) 
 	
 	TJ Seasonal. very spicy
 	
 	#trader_joes #spicy #gherkins
-	![a|170](https://i.imgur.com/wucNZnl.png)
+	<img class="image"  src="https://i.imgur.com/wucNZnl.png" width="170">
 
 
 ## Good
