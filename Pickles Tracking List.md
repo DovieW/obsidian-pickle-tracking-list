@@ -383,7 +383,7 @@ kanban-plugin: board
 - [ ] [Bnei Darom Cucumbers In Brine Mini](https://benedikts.com/products/bdcm)
 	
 	#bnei_darom #jewish #11oz #mild #israeli
-	  <img class="image" src="https://i.imgur.com/CipF79t.jpeg" width="200">
+	  <img class="image" src="https://i.imgur.com/LnSODl2.png" width="160">
 - [ ] [Bnei Darom Cucumbers In Brine Medium](https://seasonskosher.com/Scarsdale/category/10509/42856/canned-pickles/bnei-darom-cucumbers-in-brine-198-oz-10-12-ct?page=1)
 	
 	#bnei_darom #11oz #mild #israeli #jewish
@@ -1020,7 +1020,8 @@ kanban-plugin: board
 - [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
 	
 	#market_pantry #16oz #mild #gherkins
-<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
+	<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
+
 
 ## Best
 
