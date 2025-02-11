@@ -991,9 +991,36 @@ kanban-plugin: board
 	![a|160](https://i.imgur.com/CUChLYm.png)
 - [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
 	
-	#market_pantry #24oz #mild #spears
-	![a|150]()
-
+	#market_pantry #24oz #mild #spears #wish_list 
+	![a|170](https://i.imgur.com/MfcP0n9.png)
+- [ ] [Market Pantry Kosher Dill Sandwich Slices](https://www.target.com/p/kosher-dill-sandwich-slices-16oz-market-pantry-8482/-/A-76556965#lnk=sametab)
+	
+	#market_pantry #16oz #mild #wish_list #slices
+	![a|170](https://i.imgur.com/AMNuEoG.png)
+- [ ] [Market Pantry Kosher Dill Baby Pickles](https://www.target.com/p/kosher-baby-dill-pickles-32oz-market-pantry-8482/-/A-76556962#lnk=sametab)
+	
+	#market_pantry #32oz #mild #wholes #wish_list
+	![a|170](https://i.imgur.com/7dGAXnu.png)
+- [ ] [Market Pantry Bread and Butter Chips](https://www.target.com/p/bread-and-butter-chips-24oz-market-pantry-8482/-/A-76557148#lnk=sametab)
+	
+	#market_pantry #sweet #chips #24oz
+	![a|170](https://i.imgur.com/7vxEGQa.png)
+- [ ] [Market Pantry Kosher Dill Hamburger Chips](https://www.target.com/p/kosher-hamburger-dill-chips-24oz-market-pantry-8482/-/A-76557053#lnk=sametab) - [32oz](https://www.target.com/p/hamburger-dill-round-cut-chips-32oz-market-pantry-8482/-/A-76557055#lnk=sametab)
+	
+	#market_pantry #24oz #32oz  #chips #mild #wish_list
+	![a|170](https://i.imgur.com/JghPFw1.png)
+- [ ] [Market Pantry Sweet Gherkins](https://www.target.com/p/sweet-gherkins-16oz-market-pantry-8482/-/A-76557182#lnk=sametab)
+	
+	#market_pantry #sweet #16oz #gherkins
+	![a|170](https://i.imgur.com/YAibpEJ.png)
+- [ ] [Market Pantry Kosher Dill Whole Pickles](https://www.target.com/p/kosher-dill-whole-pickles-46oz-market-pantry-8482/-/A-76556963#lnk=sametab)
+	
+	#market_pantry #46oz #wholes #mild #wish_list
+	![a|170](https://i.imgur.com/SszzuE7.png)
+- [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
+	
+	#market_pantry #16oz #mild #gherkins
+![a|170](https://i.imgur.com/SkGNUkw.png)
 
 ## Best
 
@@ -1016,7 +1043,7 @@ kanban-plugin: board
 - [ ] [Trader Joe's Organic Kosher Sandwich Pickles](https://www.traderjoes.com/home/products/pdp/organic-kosher-sandwich-pickles-091072)
 	
 	#trader_joes #mild #16oz #slices 
-	![a|100](https://www.traderjoes.com/content/dam/trjo/products/m20902/91072.png/jcr:content/renditions/webp-1280.webp)
+	<img class="center"  src="https://www.traderjoes.com/content/dam/trjo/products/m20902/91072.png/jcr:content/renditions/webp-1280.webp" width="100">
 - [ ] [B&G Kosher Dill Sandwich Toppers](https://bgpickles.com/product/kosher-dill-sandwich-toppers/)
 	
 	#bg #16oz #slices #mild 
