@@ -1017,10 +1017,6 @@ kanban-plugin: board
 	
 	#market_pantry #46oz #wholes #mild #wish_list
 	<img class="image" src="https://i.imgur.com/SszzuE7.png" width="170">
-- [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
-	
-	#market_pantry #16oz #mild #gherkins
-	<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
 
 
 ## Best
@@ -1180,6 +1176,12 @@ kanban-plugin: board
 	
 	#ba-tampte #sour_mimic #mild  #halves #jewish 
 	<img class="image" src="https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png" width="130">
+- [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
+	
+	Very crunchy. Vinegary. Solid classic dilly taste.
+	
+	#market_pantry #16oz #mild #gherkins
+	<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
 
 
 ## Ok - Wouldn't Buy
