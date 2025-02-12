@@ -1403,7 +1403,7 @@ kanban-plugin: board
 ## Todo
 
 **Complete**
-- [ ] Make sure all are tag correctly with size as well
+- [ ] Make sure all are tagged correctly with size as well
 - [x] each image has a different height with margins at top and bottom
 
 
