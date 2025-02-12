@@ -1290,7 +1290,15 @@ kanban-plugin: board
 	
 	#pouch #mt_olive #mild
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png" width="140">
-- [ ] Imperial Petite Dill Gherkins - bad. edible but too vinegary
+- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
+	
+	Seems decent but is ultimately unpleasant
+	
+	#good_gather #24oz #spears #mild
+	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
+- [ ] Imperial Petite Dill Gherkins
+	
+	Bad. Edible but too vinegary
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
