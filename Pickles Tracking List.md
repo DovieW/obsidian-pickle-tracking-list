@@ -1250,6 +1250,12 @@ kanban-plugin: board
 	
 	#bnei_darom #chips #mild #20oz #israeli
 	<img class="image" src="https://i.imgur.com/9IyKhGL.png" width="93">
+- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
+	
+	Seems decent but is ultimately unpleasant
+	
+	#good_gather #24oz #spears #mild
+	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
 - [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
 	
 	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
@@ -1290,12 +1296,6 @@ kanban-plugin: board
 	
 	#pouch #mt_olive #mild
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png" width="140">
-- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
-	
-	Seems decent but is ultimately unpleasant
-	
-	#good_gather #24oz #spears #mild
-	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
 - [ ] Imperial Petite Dill Gherkins
 	
 	Bad. Edible but too vinegary
