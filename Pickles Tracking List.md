@@ -1206,12 +1206,6 @@ kanban-plugin: board
 	
 	#claussen #halves #mild #sour #64oz #32oz 
 	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092835-kosher-dill-deli-style-pickle-halves/marketing-view-color-front_c0ea444816a0b7fd072e2494376bfed39a803008_638c4d285840a61c74b8d609cbeff9f6?_a=BAVAfVDW0" width="160">
-- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
-	
-	Seems decent but is ultimately unpleasant
-	
-	#good_gather #24oz #spears #mild
-	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
 - [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/)
 	
 	Bit sweet and sour but ok
@@ -1292,6 +1286,12 @@ kanban-plugin: board
 	
 	#van_holtens #tart #wholes #pouch 
 	<img class="image" src="https://i.imgur.com/Ph4xrtF.png" width="175">
+- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
+	
+	Seems decent but is ultimately unpleasant. not disgusting, but wouldn't eat
+	
+	#good_gather #24oz #spears #mild
+	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
 - [ ] [Mt. Olive Kosher Dill Petites picklePAK](https://www.mtolivepickles.com/pickle-products/kosher-dill-petites-picklepak/) - weird
 	
 	#pouch #mt_olive #mild
