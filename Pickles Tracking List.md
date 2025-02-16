@@ -149,11 +149,6 @@ kanban-plugin: board
 	
 	#vlasic #mild #spears 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/reduced-sodium-kosher-dill-25646.png" width="150">
-- [ ] [Vlasic Kosher Dill Spears](https://www.vlasic.com/pickles/kosher-dill-spears)
-	
-	#vlasic #mild #spears 
-	
-	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/kosher-dill-spears-61679.png" width="150">
 - [ ] [Vlasic Kosher Dill Baby Wholes](https://www.vlasic.com/pickles/kosher-dill-baby-wholes)
 	
 	#vlasic #mild #gherkins 
@@ -1224,6 +1219,13 @@ kanban-plugin: board
 	
 	#oh_snap #spicy #chips #sweet
 	<img class="image" src="https://i.imgur.com/ugjTVdV.png" width="180">
+- [ ] [Vlasic Kosher Dill Spears](https://www.vlasic.com/pickles/kosher-dill-spears)
+	
+	These used to be better I think. They're kinda fake tasting.
+	
+	#vlasic #mild #spears 
+	
+	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/kosher-dill-spears-61679.png" width="150">
 - [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Chips](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-chips)
 	
 	#vlasic #spicy #chips 
