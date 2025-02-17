@@ -1407,6 +1407,8 @@ kanban-plugin: board
 **Complete**
 - [ ] Make sure all are tagged correctly with size as well
 - [x] each image has a different height with margins at top and bottom
+- [x] add pickle recipes
+- [x] add analysis of pickle ingredients and manufacturing details
 
 
 ***
