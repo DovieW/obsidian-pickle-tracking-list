@@ -1032,7 +1032,7 @@ kanban-plugin: board
 
 - [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
 	
-	Very solid
+	Very solid. So far seems like the 24oz jar is not as good as the 16oz
 	
 	#16oz #mt_olive #mild #gherkins #24oz 
 	<img class="image" src="https://i.imgur.com/pXTu8Ys.png" width="140">
