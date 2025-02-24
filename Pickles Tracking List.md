@@ -489,10 +489,6 @@ kanban-plugin: board
 	
 	#grillos #chips #mild #16oz
 	<img class="image" src="https://i.imgur.com/favu1aq.png" width="150">
-- [ ] [Grillo's Hot Chips](https://www.grillos.com/product/hot-chips/)
-	
-	#grillos #chips #16oz #spicy
-	<img class="image" src="https://i.imgur.com/0yYilkH.png" width="150">
 - [ ] [Grillo's Dill Sandwich Makers](https://www.grillos.com/product/dill-sandwich-makers/)
 	
 	#grillos #16oz #slices #mild
@@ -1030,6 +1026,12 @@ kanban-plugin: board
 
 ## Best
 
+- [ ] [Grillo's Hot Chips](https://www.grillos.com/product/hot-chips/)
+	
+	Very spicy. Crunchy. Great "airy" taste. Vingery. Can't eat too many at once.
+	
+	#grillos #chips #16oz #spicy
+	<img class="image" src="https://i.imgur.com/0yYilkH.png" width="150">
 - [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
 	
 	Very solid. So far seems like the 24oz jar is not as good as the 16oz
