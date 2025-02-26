@@ -1306,6 +1306,12 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
+- [ ] [Unger's Kosher Dill Pickles](https://www.shopevergreenkosher.com/search/ungers%20pickles?catalogProduct=2338165)
+	
+	Weird taste. Can eat a couple, but not good really.
+	
+	#ungers #wholes #33oz #mild
+	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
 
 
 ## Other
@@ -1394,6 +1400,8 @@ kanban-plugin: board
 	#26oz
 - [ ] 32 Oz
 	#32oz
+- [ ] 33 Oz
+	#33oz
 - [ ] 46 Oz
 	#46oz
 - [ ] 50 Oz
