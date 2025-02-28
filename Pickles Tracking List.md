@@ -1099,18 +1099,6 @@ kanban-plugin: board
 	
 	#van_holtens #mild #wholes #pouch 
 	<img class="image" src="https://i.imgur.com/PKO2JP8.png" width="175">
-- [ ] [Great Value Kosher Dill Gherkins Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Dill-Gherkins-Pickles-24-oz/745593435?classType=REGULAR)
-	
-	#great_value #mild #gherkins 
-	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
-- [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
-	
-	#great_value #mild #spears 
-	<img class="image" src="https://i.imgur.com/uQ3vNQ2.png" width="160">
-- [ ] [Great Value Kosher Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Whole-Dill-Pickles-Fresh-Pack-80-fl-oz/679574280?classType=REGULAR)
-	
-	#great_value #mild #wholes 
-	<img class="image" src="https://i.imgur.com/NRjWcnZ.png" width="160">
 - [ ] [Flaum Sour Pickles](https://flaums.com/product/sour-pickles/)
 	
 	#flaum #sour #wholes #jewish 
@@ -1240,6 +1228,18 @@ kanban-plugin: board
 	
 	#vlasic #spicy 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-58974.png" width="150">
+- [ ] [Great Value Kosher Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Whole-Dill-Pickles-Fresh-Pack-80-fl-oz/679574280?classType=REGULAR)
+	
+	#great_value #mild #wholes 
+	<img class="image" src="https://i.imgur.com/NRjWcnZ.png" width="160">
+- [ ] [Great Value Kosher Dill Gherkins Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Dill-Gherkins-Pickles-24-oz/745593435?classType=REGULAR)
+	
+	#great_value #mild #gherkins 
+	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
+- [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
+	
+	#great_value #mild #spears 
+	<img class="image" src="https://i.imgur.com/uQ3vNQ2.png" width="160">
 - [ ] [Great Value Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Whole-Dill-Pickles-46-oz/139654716?classType=REGULAR&athbdg=L1600)
 	
 	#great_value #mild #wholes 
