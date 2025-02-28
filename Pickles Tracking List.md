@@ -1238,6 +1238,8 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
 - [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
 	
+	It's usually quite good but it's inconsistent. I can't eat too many at once this last time. Tasted a bit weird.
+	
 	#great_value #mild #spears 
 	<img class="image" src="https://i.imgur.com/uQ3vNQ2.png" width="160">
 - [ ] [Great Value Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Whole-Dill-Pickles-46-oz/139654716?classType=REGULAR&athbdg=L1600)
