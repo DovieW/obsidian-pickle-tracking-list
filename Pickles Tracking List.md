@@ -76,6 +76,8 @@ kanban-plugin: board
 	#osem
 - [ ] Williamsburg Pickles DON'T BUY
 	#williamsburg_pickles
+- [ ] [The Cheese Guy](https://thecheeseguy.com/products/cornichons)
+	#cheese_guy
 
 
 ## Not Rated
