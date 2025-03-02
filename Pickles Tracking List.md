@@ -1316,6 +1316,12 @@ kanban-plugin: board
 	
 	#ungers #wholes #33oz #mild
 	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
+- [ ] [Fine Pairing's Cornichons](https://thecheeseguy.com/products/cornichons)
+	
+	Unique taste. Not good. Maybe meant to eat with cheese or something.
+	
+	#cheese_guy #12oz #mild #baby
+	<img class="image" src="https://i.imgur.com/c4emBf4.png" width="100">
 
 
 ## Other
