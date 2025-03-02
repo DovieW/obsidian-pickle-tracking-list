@@ -143,10 +143,6 @@ kanban-plugin: board
 	
 	#vlasic #mild #gherkins 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/kosher-dill-gherkins-83791.png" width="150">
-- [ ] [Vlasic Sweet Heat Chips](https://www.vlasic.com/pickles/sweet-heat-chips)
-	
-	#vlasic #sweet #spicy #chips 
-	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/sweet-heat-chips-24870.png" width="150">
 - [ ] [Vlasic Reduced Sodium Kosher Dill Spears](https://www.vlasic.com/pickles/reduced-sodium-kosher-dill-spears)
 	
 	#vlasic #mild #spears 
@@ -1218,6 +1214,12 @@ kanban-plugin: board
 	#vlasic #mild #spears 
 	
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/kosher-dill-spears-61679.png" width="150">
+- [ ] [Vlasic Sweet Heat Chips](https://www.vlasic.com/pickles/sweet-heat-chips)
+	
+	Not bad. Not too sweet. Easy taste. Quite Hot.
+	
+	#vlasic #sweet #spicy #chips #24oz 
+	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/sweet-heat-chips-24870.png" width="150">
 - [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Chips](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-chips)
 	
 	#vlasic #spicy #chips 
