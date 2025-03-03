@@ -78,6 +78,8 @@ kanban-plugin: board
 	#williamsburg_pickles
 - [ ] [The Cheese Guy](https://thecheeseguy.com/products/cornichons)
 	#cheese_guy
+- [ ] [Old Williamsburg](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
+	#old_williamsburg
 
 
 ## Not Rated
@@ -1240,6 +1242,10 @@ kanban-plugin: board
 	
 	#great_value #mild #gherkins 
 	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
+- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste, edible but barely
+	
+	#great_value #mild  #chips 
+	<img class="image" src="https://i.imgur.com/A9gQfma.png" width="160">
 - [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
 	
 	It's usually quite good but it's inconsistent. I can't eat too many at once this last time. Tasted a bit weird.
@@ -1260,20 +1266,41 @@ kanban-plugin: board
 	
 	#bnei_darom #chips #mild #20oz #israeli
 	<img class="image" src="https://i.imgur.com/9IyKhGL.png" width="93">
+- [ ] Imperial Petite Dill Gherkins
+	
+	Bad. Edible but too vinegary
+	
+	#imperial #24oz #mild #baby
+	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
+- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
+	
+	Seems decent but is ultimately unpleasant. not disgusting, but wouldn't eat
+	
+	#good_gather #24oz #spears #mild
+	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
+- [ ] [Unger's Kosher Dill Pickles](https://www.shopevergreenkosher.com/search/ungers%20pickles?catalogProduct=2338165)
+	
+	Weird taste. Can eat a couple, but not good really.
+	
+	#ungers #wholes #33oz #mild
+	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
 - [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
 	
 	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
 	
 	#boars_head #26oz #mild #halves #sour_mimic 
 	<img class="image" src="https://i.imgur.com/H3U7yET.png" width="160">
+- [ ] [Old Williamsburg Dill Pickles](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
+	
+	Tasted really good at first but ultimately much too vinegary.
+	
+	#mild #old_williamsburg #24oz #wholes 
+	
+	<img class="image" src="https://i.imgur.com/QYiByE7.png" width="120">
 
 
 ## Bad - Wouldn't Eat
 
-- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste, edible but barely
-	
-	#great_value #mild  #chips 
-	<img class="image" src="https://i.imgur.com/A9gQfma.png" width="160">
 - [ ] [Suckerpunch Fiery Hot 3-Pepper Snack Pack](https://suckerpunchpickles.com/products/3-pepper-fire-pickle-chips?variant=32933502124137)
 	
 	#suckerpunch #pouch #3oz #spicy #chips 
@@ -1296,28 +1323,10 @@ kanban-plugin: board
 	
 	#van_holtens #tart #wholes #pouch 
 	<img class="image" src="https://i.imgur.com/Ph4xrtF.png" width="175">
-- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
-	
-	Seems decent but is ultimately unpleasant. not disgusting, but wouldn't eat
-	
-	#good_gather #24oz #spears #mild
-	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
 - [ ] [Mt. Olive Kosher Dill Petites picklePAK](https://www.mtolivepickles.com/pickle-products/kosher-dill-petites-picklepak/) - weird
 	
 	#pouch #mt_olive #mild
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png" width="140">
-- [ ] Imperial Petite Dill Gherkins
-	
-	Bad. Edible but too vinegary
-	
-	#imperial #24oz #mild #baby
-	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
-- [ ] [Unger's Kosher Dill Pickles](https://www.shopevergreenkosher.com/search/ungers%20pickles?catalogProduct=2338165)
-	
-	Weird taste. Can eat a couple, but not good really.
-	
-	#ungers #wholes #33oz #mild
-	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
 - [ ] [Fine Pairing's Cornichons](https://thecheeseguy.com/products/cornichons)
 	
 	Unique taste. Not good. Maybe meant to eat with cheese or something.
