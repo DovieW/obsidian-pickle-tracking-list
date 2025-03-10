@@ -80,6 +80,8 @@ kanban-plugin: board
 	#cheese_guy
 - [ ] [Old Williamsburg](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
 	#old_williamsburg
+- [ ] [Cleveland Kitchen](https://www.clevelandkitchen.com/pickles)
+	#cleveland_kitchen
 
 
 ## Not Rated
@@ -1297,6 +1299,10 @@ kanban-plugin: board
 	#mild #old_williamsburg #24oz #wholes 
 	
 	<img class="image" src="https://i.imgur.com/QYiByE7.png" width="120">
+- [ ] [Cleveland Kitchen Kimichi Pickle Chips](https://www.clevelandkitchen.com/pickles/kimchi-pickles)
+	
+	#spicy #chips #cleveland_kitchen #16oz #24oz
+	<img class="image" src="https://i.imgur.com/yUI9aUS.png" width="120">
 
 
 ## Bad - Wouldn't Eat
