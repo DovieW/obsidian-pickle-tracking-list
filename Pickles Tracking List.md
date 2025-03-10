@@ -85,6 +85,10 @@ kanban-plugin: board
 
 
 ## Not Rated
+- [ ] [Wickle Dirty Dill Okra](https://wicklespickles.com/product/dirty-dill-okra-16-oz/)
+	
+	#wickles #spicy
+	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
 
 - [ ] [Wickles Dirty Dill Spears](https://wicklespickles.com/product/dirty-dill-spears-24oz/)
 	#wickles #spicy #spears
@@ -1452,10 +1456,6 @@ kanban-plugin: board
 
 ## Archive
 
-- [ ] [Wickle Dirty Dill Okra](https://wicklespickles.com/product/dirty-dill-okra-16-oz/)
-	
-	#wickles #spicy
-	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
 - [ ] There's one image that has a white background
 - [ ] Host images on NAS and link images to there. Would it be faster though? Would have to download about half the images which aren't on Imgur - seems to load quite quickly on my s25 ultra
 - [ ] Why doesn't it open on mobile in kanban mode? It does but can take a loong time if it doesn't load right away. Faster phone helps. is there anything that can be done to speed it up? Maybe don't keep images in Imgur? store locally? - loads quite quickly on my s25 ultra
