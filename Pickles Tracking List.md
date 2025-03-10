@@ -85,11 +85,11 @@ kanban-plugin: board
 
 
 ## Not Rated
+
 - [ ] [Wickle Dirty Dill Okra](https://wicklespickles.com/product/dirty-dill-okra-16-oz/)
 	
 	#wickles #spicy
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
-
 - [ ] [Wickles Dirty Dill Spears](https://wicklespickles.com/product/dirty-dill-spears-24oz/)
 	#wickles #spicy #spears
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-WickedDill-Spears-v3_445x600.png" width="125">
@@ -1187,7 +1187,14 @@ kanban-plugin: board
 	Very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
-
+- [ ] [Cleveland Kitchen Single Serve Classic Dill Pickle Chips](https://www.clevelandkitchen.com/pickles/single-serve-dilly-garlic-pickle-chips)
+	
+	#mild #chips #pouch #cleveland_kitchen
+	<img class="image" src="https://cdn.prod.website-files.com/5e5c973b66194f7844935718/6554f70e40d8c7070136d796_product%20on%20website.png" width="130">
+- [ ] [Cleveland Kitchen Single Serve Hot Picks Pickle Chips](https://www.clevelandkitchen.com/pickles/hot-picks-pickle-chips)
+	
+	#cleveland_kitchen #pouch #spicy #chips 
+	<img class="image" src="https://cdn.prod.website-files.com/5e5c973b66194f7844935718/65bd08b0411811ca852916e5_11.png" width="140">
 
 ## Ok - Wouldn't Buy
 
