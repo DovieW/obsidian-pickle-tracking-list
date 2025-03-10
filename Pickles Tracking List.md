@@ -1068,51 +1068,92 @@ kanban-plugin: board
 
 ## Good
 
-- [ ] [Fer-Real Fermented Sour Pickles](https://www.shopevergreenkosher.com/search/pickles?catalogProduct=2401855)
+- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/)
 	
-	#fer-real #sour #wholes #jewish #wholes #48oz #32oz 	
-	<img class="image" src="https://i.imgur.com/4mFoKCz.png" width="170">
-- [ ] [Oh Snap! Dilly Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07BCX2DSY/ref=sr_1_34?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.125XccJQnzTEBiOAMtGYwcLERQF9LNidUvehUwb60AWiGJwmT6zO3DJLFS2X4_P7Xx6-_uhi5fhLM7YMaPzexP1ICFe86K2aw7T49WnOGyPTZT1OQj8XftHlj0XPnwwY2ZY8yCEuXcG_COP0Lj-RpMlmIwXfny0udBw2XAJwMOqpQmnAW4yn4q4pDrlhrlI8v3nrHNqdVjVABLz68XQJ2KvGqcA6zI26Ai7n3USJruY.bPfb2oLk7bk56fhzIAoMCiqB1ufP_waOseUVEYA2yVU&dib_tag=se&keywords=oh+snap&qid=1735147808&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-34&xpid=lwdV159FbcPxp)
+	Very mild. reminds me of corn
 	
-	#oh_snap #3oz #chips #mild
-	<img class="image" src="https://i.imgur.com/tbDydoS.png" width="180">
-- [ ] [Haddar Fiery Spicy Pickle Chips Pouch](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-pouch/)
+	#bg #16oz #wholes #24oz #32oz 
+	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003024.png" width="150">
+- [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/) - very mild, very little crunch
 	
-	#3oz #haddar #pouch #spicy #chips #jewish 
-	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640142.png" width="100">
-- [ ] [Oh Snap! Hottie](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B075RGP3MN/ref=sr_1_19?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-19)
+	#bg #16oz #mild #spears #24oz #32oz 
+	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003147.png" width="150">
+- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/) 
 	
-	#oh_snap #spicy #wholes #3oz
-	<img class="image" src="https://i.imgur.com/UjDyDvB.png" width="180">
-- [ ] [Oh Snap! Hottie Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07GTJL3SY/ref=sr_1_5?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-5)
+	Strong specific taste
 	
-	#oh_snap #spicy #3oz #chips
-	<img class="image" src="https://i.imgur.com/jDCloDU.png" width="180">
-- [ ] [Oh Snap! Gone Dilly](https://www.amazon.com/Pickle-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B01CTR0FNI/ref=sr_1_9?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-9)
+	#bg #wholes #32oz #mild
+	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003369-1.png" width="150">
+- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/) 
 	
-	#oh_snap #3oz #wholes #mild
-	<img class="image" src="https://i.imgur.com/kVgTdkV.png" width="180">
-- [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero)
+	Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
 	
-	Very clean taste. easy to snack on.
-	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
-	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
-- [ ] [Van Holten's HEARTY DILL PICKLE](https://vanholtenpickles.com/dill-pickle/)
-	
-	#van_holtens #mild #wholes #pouch 
-	<img class="image" src="https://i.imgur.com/PKO2JP8.png" width="175">
-- [ ] [Flaum Sour Pickles](https://flaums.com/product/sour-pickles/)
-	
-	#flaum #sour #wholes #jewish 
-	<img class="image" src="https://flaums.com/wp-content/uploads/2024/07/DSC_7886-1.png" width="150">
+	#ba-tampte #sour_mimic #mild  #halves #jewish 
+	<img class="image" src="https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png" width="130">
 - [ ] [Ba-Tampte Garlic Dill](https://batamptepickle.com/garlic-dill/)
 	
 	#ba-tampte #sour_mimic #mild  #wholes #jewish 
 	<img class="image" src="https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-4.png" width="130">
+- [ ] [Fer-Real Fermented Sour Pickles](https://www.shopevergreenkosher.com/search/pickles?catalogProduct=2401855)
+	
+	#fer-real #sour #wholes #jewish #wholes #48oz #32oz 	
+	<img class="image" src="https://i.imgur.com/4mFoKCz.png" width="170">
+- [ ] [Flaum Sour Pickles](https://flaums.com/product/sour-pickles/)
+	
+	#flaum #sour #wholes #jewish 
+	<img class="image" src="https://flaums.com/wp-content/uploads/2024/07/DSC_7886-1.png" width="150">
+- [ ] [Haddar Classic Garlic Dill Pickle Chips Pouch](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-pouch/)
+	
+	#haddar #pouch #chips #mild #jewish #3oz 
+	<img class="image" src="https://i.imgur.com/bbRpB8c.png" width="100">
+- [ ] [Haddar Classic Garlic Dill Pickle Chips Tub](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-tub/)
+	
+	#24oz #mild #haddar #jewish #chips 
+	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640151-1000x952.png" width="100">
+- [ ] [Haddar Fiery Spicy Pickle Chips Pouch](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-pouch/)
+	
+	#3oz #haddar #pouch #spicy #chips #jewish 
+	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640142.png" width="100">
 - [ ] [Haddar Fiery Spicy Pickle Chips Tub](https://www.kayco.com/product/haddar-fiery-spicy-pickle-chips-tub/)
 	
 	#24oz #haddar #spicy #chips #jewish 
 	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640150-1000x944.png" width="100">
+- [ ] [Haddar Sweet Pickle Chips Pouch](https://www.kayco.com/product/haddar-sweet-with-a-kick-horseradish-pickle-chips-pouch/)
+	
+	#haddar #spicy #sweet #pouch #3oz #jewish #chips  
+	<img class="image" src="https://i.imgur.com/8uNNf93.png" width="100">
+- [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
+	
+	Very crunchy. Vinegary. Solid classic dilly taste.
+	
+	#market_pantry #16oz #mild #gherkins
+	<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
+- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/)
+	
+	Very smooth and mild, easy to eat, good with chulent
+	
+	#mt_olive #24oz #mild #spears
+	<img class="image" src="https://i.imgur.com/RuHsNZi.png" width="140">
+- [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Kosher Petite Dills](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-kosher-petite-dills/)
+	
+	#mt_olive #baby #mild #5oz
+	<img class="image" src="https://i.imgur.com/3I5gIuT.png" width="140">
+- [ ] [Oh Snap! Dilly Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07BCX2DSY/ref=sr_1_34?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.125XccJQnzTEBiOAMtGYwcLERQF9LNidUvehUwb60AWiGJwmT6zO3DJLFS2X4_P7Xx6-_uhi5fhLM7YMaPzexP1ICFe86K2aw7T49WnOGyPTZT1OQj8XftHlj0XPnwwY2ZY8yCEuXcG_COP0Lj-RpMlmIwXfny0udBw2XAJwMOqpQmnAW4yn4q4pDrlhrlI8v3nrHNqdVjVABLz68XQJ2KvGqcA6zI26Ai7n3USJruY.bPfb2oLk7bk56fhzIAoMCiqB1ufP_waOseUVEYA2yVU&dib_tag=se&keywords=oh+snap&qid=1735147808&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-34&xpid=lwdV159FbcPxp)
+	
+	#oh_snap #3oz #chips #mild
+	<img class="image" src="https://i.imgur.com/tbDydoS.png" width="180">
+- [ ] [Oh Snap! Gone Dilly](https://www.amazon.com/Pickle-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B01CTR0FNI/ref=sr_1_9?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-9)
+	
+	#oh_snap #3oz #wholes #mild
+	<img class="image" src="https://i.imgur.com/kVgTdkV.png" width="180">
+- [ ] [Oh Snap! Hottie Bites](https://www.amazon.com/Snacking-Gluten-Free-Fat-Free-Non-GMO-Veggies/dp/B07GTJL3SY/ref=sr_1_5?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-5)
+	
+	#oh_snap #spicy #3oz #chips
+	<img class="image" src="https://i.imgur.com/jDCloDU.png" width="180">
+- [ ] [Oh Snap! Hottie](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B075RGP3MN/ref=sr_1_19?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-19)
+	
+	#oh_snap #spicy #wholes #3oz
+	<img class="image" src="https://i.imgur.com/UjDyDvB.png" width="180">
 - [ ] [Shams Gherkins Mini Pickled Cucumber](https://www.shopevergreenkosher.com/search/liebers%20pickle?catalogProduct=1043110)
 	
 	#50oz #shams #baby #mild #jewish 
@@ -1127,78 +1168,90 @@ kanban-plugin: board
 	
 	#trader_joes #24oz #mild #gherkins 
 	<img class="image" src="https://www.traderjoes.com/content/dam/trjo/products/m20902/20459.png/jcr:content/renditions/webp-1280.webp" width="100">
-- [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/) - very mild, very little crunch
+- [ ] [Van Holten's HEARTY DILL PICKLE](https://vanholtenpickles.com/dill-pickle/)
 	
-	#bg #16oz #mild #spears #24oz #32oz 
-	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003147.png" width="150">
-- [ ] [B&G Crunchy Kosher Whole Dill Pickles](https://bgpickles.com/product/kosher-whole-dill-pickles/)
-	
-	Very mild. reminds me of corn
-	
-	#bg #16oz #wholes #24oz #32oz 
-	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003024.png" width="150">
-- [ ] [B&G NY Deli Dill Pickles](https://bgpickles.com/product/ny-deli-dill-pickles/) 
-	
-	Strong specific taste
-	
-	#bg #wholes #32oz #mild
-	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003369-1.png" width="150">
-- [ ] [Haddar Sweet Pickle Chips Pouch](https://www.kayco.com/product/haddar-sweet-with-a-kick-horseradish-pickle-chips-pouch/)
-	
-	#haddar #spicy #sweet #pouch #3oz #jewish #chips  
-	<img class="image" src="https://i.imgur.com/8uNNf93.png" width="100">
-- [ ] [Haddar Classic Garlic Dill Pickle Chips Pouch](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-pouch/)
-	
-	#haddar #pouch #chips #mild #jewish #3oz 
-	<img class="image" src="https://i.imgur.com/bbRpB8c.png" width="100">
-- [ ] [Haddar Classic Garlic Dill Pickle Chips Tub](https://www.kayco.com/product/haddar-classic-garlic-dill-pickle-chips-tub/)
-	
-	#24oz #mild #haddar #jewish #chips 
-	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640151-1000x952.png" width="100">
-- [ ] [Mt. Olive Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/kosher-dill-spears/)
-	
-	Very smooth and mild, easy to eat, good with chulent
-	
-	#mt_olive #24oz #mild #spears
-	<img class="image" src="https://i.imgur.com/RuHsNZi.png" width="140">
-- [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Kosher Petite Dills](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-kosher-petite-dills/)
-	
-	#mt_olive #baby #mild #5oz
-	<img class="image" src="https://i.imgur.com/3I5gIuT.png" width="140">
+	#van_holtens #mild #wholes #pouch 
+	<img class="image" src="https://i.imgur.com/PKO2JP8.png" width="175">
 - [ ] Galil Kosher Dill Pickle Gherkins Small
 	
 	Can't find online - Interesting horseradish taste
 	
 	#gherkins #mild #galil #46oz
 	<img class="image" src="https://i.imgur.com/t5jp64x.png" width="160">
-- [ ] [Ba-Tampte Deli Halves](https://batamptepickle.com/deli-halves/) 
+- [ ] Uncle Ediks, [Mild](https://www.uncleedikspickles.com/products/regular-pickles), [Medium](https://www.uncleedikspickles.com/products/spicy-pickles), [Hot](https://www.uncleedikspickles.com/products/habanero)
 	
-	Better than the Garlic version, but basically the same i think. Quite good. Light taste. A bit mushy but still crunchy. Unique flavor
-	
-	#ba-tampte #sour_mimic #mild  #halves #jewish 
-	<img class="image" src="https://batamptepickle.com/wp-content/uploads/2024/09/Layer-1-11.png" width="130">
-- [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
-	
-	Very crunchy. Vinegary. Solid classic dilly taste.
-	
-	#market_pantry #16oz #mild #gherkins
-	<img class="image" src="https://i.imgur.com/SkGNUkw.png" width="170">
+	Very clean taste. easy to snack on.
+	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
+	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
 
 
 ## Ok - Wouldn't Buy
 
+- [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
+	
+	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
+	
+	#boars_head #26oz #mild #halves #sour_mimic 
+	<img class="image" src="https://i.imgur.com/H3U7yET.png" width="160">
 - [ ] [Claussen Kosher Dill Deli-Style Pickle Halves](https://www.kraftheinz.com/claussen/products/00044700092835-kosher-dill-deli-style-pickle-halves) - [32oz](https://www.kraftheinz.com/claussen/products/00044700092057-kosher-dill-pickle-halves)
 	
 	Not spiced right. Too hard, not crunchy. And a bit annoying vinegary taste. it can be good, but mostly not
 	
 	#claussen #halves #mild #sour #64oz #32oz 
 	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092835-kosher-dill-deli-style-pickle-halves/marketing-view-color-front_c0ea444816a0b7fd072e2494376bfed39a803008_638c4d285840a61c74b8d609cbeff9f6?_a=BAVAfVDW0" width="160">
-- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/)
+- [ ] [Cleveland Kitchen Kimichi Pickle Chips](https://www.clevelandkitchen.com/pickles/kimchi-pickles)
 	
-	Bit sweet and sour but ok
+	#spicy #chips #cleveland_kitchen #16oz #24oz
+	<img class="image" src="https://i.imgur.com/yUI9aUS.png" width="120">
+- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
 	
-	#wickles #spicy #baby 
-	<img class="image" src="https://i.imgur.com/S2zRcAH.png" width="125">
+	Seems decent but is ultimately unpleasant. not disgusting, but wouldn't eat
+	
+	#good_gather #24oz #spears #mild
+	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
+- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste, edible but barely
+	
+	#great_value #mild  #chips 
+	<img class="image" src="https://i.imgur.com/A9gQfma.png" width="160">
+- [ ] [Great Value Kosher Dill Gherkins Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Dill-Gherkins-Pickles-24-oz/745593435?classType=REGULAR)
+	
+	#great_value #mild #gherkins 
+	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
+- [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
+	
+	It's usually quite good but it's inconsistent. I can't eat too many at once this last time. Tasted a bit weird.
+	
+	#great_value #mild #spears 
+	<img class="image" src="https://i.imgur.com/uQ3vNQ2.png" width="160">
+- [ ] [Great Value Kosher Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Whole-Dill-Pickles-Fresh-Pack-80-fl-oz/679574280?classType=REGULAR)
+	
+	#great_value #mild #wholes 
+	<img class="image" src="https://i.imgur.com/NRjWcnZ.png" width="160">
+- [ ] [Great Value Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Whole-Dill-Pickles-46-oz/139654716?classType=REGULAR&athbdg=L1600)
+	
+	#great_value #mild #wholes 
+	<img class="image" src="https://i.imgur.com/tgaoTU4.png" width="160">
+- [ ] [Haddar Sweet Pickle Chips Tub](https://www.kayco.com/product/haddar-sweet-with-a-kick-horseradish-pickle-chips-tub/)
+	
+	#24oz #haddar #jewish #spicy #sweet #chips
+	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640153-1000x952.png" width="100">
+- [ ] [Oh Snap! Sassy Bites](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B08RMN2YN6/ref=sr_1_10?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-10)
+	
+	#oh_snap #spicy #chips #sweet
+	<img class="image" src="https://i.imgur.com/ugjTVdV.png" width="180">
+- [ ] [Old Williamsburg Dill Pickles](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
+	
+	Tasted really good at first but ultimately much too vinegary.
+	
+	#mild #old_williamsburg #24oz #wholes 
+	
+	<img class="image" src="https://i.imgur.com/QYiByE7.png" width="120">
+- [ ] [Unger's Kosher Dill Pickles](https://www.shopevergreenkosher.com/search/ungers%20pickles?catalogProduct=2338165)
+	
+	Weird taste. Can eat a couple, but not good really.
+	
+	#ungers #wholes #33oz #mild
+	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
 - [ ] [Van Holten's BIG PAPA
 	HEARTY DILL PICKLE](https://vanholtenpickles.com/big-papa-pickle/)
 	
@@ -1207,10 +1260,18 @@ kanban-plugin: board
 	#van_holtens #mild #wholes #pouch 
 	
 	 <img class="image" src="https://i.imgur.com/JMQLndF.png" width="175">
-- [ ] [Oh Snap! Sassy Bites](https://www.amazon.com/OH-SNAP-Gluten-Free-Fat-Free-Non-GMO/dp/B08RMN2YN6/ref=sr_1_10?crid=3LEBGYL5UFIOY&dib=eyJ2IjoiMSJ9.ancFbuilEImtAGbEBwSG5Yx96hz8IzsPzPjab1pLjHd4JkwNznQ-nqMlbhS0s7pcfKLWGPLK4a30zIroF1tSYvjUvdxuSKtCD7Q57x6933WDFialIzQ3FfPCtU8T3HNqDemSE70brKQOExQsiIH1i7ZT5LyUxlHR1Hbi_dqyq1DiEbQ36IWZWi6eKn04ZjYlmuXpNd-AJzz_wjUN3g3bt4pmmKG9nDO2h1FFhOC9oqE.Wo9lz0_s3RnK4BlJTRgkXBv7SKXWL14KEiovJTX1P7c&dib_tag=se&keywords=oh+snap&qid=1735147505&sprefix=nike+black+and+white+sneakers%2Caps%2C253&sr=8-10)
+- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Chips](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-chips)
 	
-	#oh_snap #spicy #chips #sweet
-	<img class="image" src="https://i.imgur.com/ugjTVdV.png" width="180">
+	#vlasic #spicy #chips 
+	  <img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-14233.png" width="150">
+- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Spears](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-spears)
+	
+	#vlasic #spicy #spears 
+	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-69364.png" width="150">
+- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Wholes](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-wholes) #wholes 
+	
+	#vlasic #spicy 
+	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-58974.png" width="150">
 - [ ] [Vlasic Kosher Dill Spears](https://www.vlasic.com/pickles/kosher-dill-spears)
 	
 	These used to be better I think. They're kinda fake tasting.
@@ -1224,44 +1285,12 @@ kanban-plugin: board
 	
 	#vlasic #sweet #spicy #chips #24oz 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/sweet-heat-chips-24870.png" width="150">
-- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Chips](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-chips)
+- [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/)
 	
-	#vlasic #spicy #chips 
-	  <img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-14233.png" width="150">
-- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Spears](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-spears)
+	Bit sweet and sour but ok
 	
-	#vlasic #spicy #spears 
-	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-69364.png" width="150">
-- [ ] [Vlasic Frank's RedHot Flavored Kosher Dill Wholes](https://www.vlasic.com/pickles/franks-redhot-flavored-kosher-dill-wholes) #wholes 
-	
-	#vlasic #spicy 
-	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/franks-redhot-flavored-58974.png" width="150">
-- [ ] [Great Value Kosher Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Whole-Dill-Pickles-Fresh-Pack-80-fl-oz/679574280?classType=REGULAR)
-	
-	#great_value #mild #wholes 
-	<img class="image" src="https://i.imgur.com/NRjWcnZ.png" width="160">
-- [ ] [Great Value Kosher Dill Gherkins Pickles](https://www.walmart.com/ip/Great-Value-Kosher-Dill-Gherkins-Pickles-24-oz/745593435?classType=REGULAR)
-	
-	#great_value #mild #gherkins 
-	<img class="image" src="https://i.imgur.com/MPfWZ4l.png" width="160">
-- [ ] [Great Value Hamburger Dill Chip](https://www.walmart.com/ip/Great-Value-Hamburger-Dill-Chip-Pickles-32-fl-oz/378941019?classType=REGULAR&athbdg=L1600) - weird fake taste, edible but barely
-	
-	#great_value #mild  #chips 
-	<img class="image" src="https://i.imgur.com/A9gQfma.png" width="160">
-- [ ] [Great Value Kosher Spears Dill Pickle](https://www.walmart.com/ip/FRESH-KOSHER-DILL-SPEARS-PICKLES/548915008?classType=REGULAR)
-	
-	It's usually quite good but it's inconsistent. I can't eat too many at once this last time. Tasted a bit weird.
-	
-	#great_value #mild #spears 
-	<img class="image" src="https://i.imgur.com/uQ3vNQ2.png" width="160">
-- [ ] [Great Value Whole Dill Pickles](https://www.walmart.com/ip/Great-Value-Whole-Dill-Pickles-46-oz/139654716?classType=REGULAR&athbdg=L1600)
-	
-	#great_value #mild #wholes 
-	<img class="image" src="https://i.imgur.com/tgaoTU4.png" width="160">
-- [ ] [Haddar Sweet Pickle Chips Tub](https://www.kayco.com/product/haddar-sweet-with-a-kick-horseradish-pickle-chips-tub/)
-	
-	#24oz #haddar #jewish #spicy #sweet #chips
-	<img class="image" src="https://www.kayco.com/wp-content/uploads/import/media/640153-1000x952.png" width="100">
+	#wickles #spicy #baby 
+	<img class="image" src="https://i.imgur.com/S2zRcAH.png" width="125">
 - [ ] Bnei Darom Sliced Cucumbers In Brine
 	
 	Too salty
@@ -1274,35 +1303,6 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
-- [ ] [Good & Gather Organic Kosher Dill Pickle Spears](https://www.target.com/p/organic-kosher-dill-pickle-spears-24-fl-oz-good-38-gather-8482/-/A-76727084#lnk=sametab)
-	
-	Seems decent but is ultimately unpleasant. not disgusting, but wouldn't eat
-	
-	#good_gather #24oz #spears #mild
-	<img class="image" src="https://i.imgur.com/YjIE4GV.png" width="170">
-- [ ] [Unger's Kosher Dill Pickles](https://www.shopevergreenkosher.com/search/ungers%20pickles?catalogProduct=2338165)
-	
-	Weird taste. Can eat a couple, but not good really.
-	
-	#ungers #wholes #33oz #mild
-	<img class="image" src="https://i.imgur.com/RzzMWk3.png" width="80">
-- [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
-	
-	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
-	
-	#boars_head #26oz #mild #halves #sour_mimic 
-	<img class="image" src="https://i.imgur.com/H3U7yET.png" width="160">
-- [ ] [Old Williamsburg Dill Pickles](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
-	
-	Tasted really good at first but ultimately much too vinegary.
-	
-	#mild #old_williamsburg #24oz #wholes 
-	
-	<img class="image" src="https://i.imgur.com/QYiByE7.png" width="120">
-- [ ] [Cleveland Kitchen Kimichi Pickle Chips](https://www.clevelandkitchen.com/pickles/kimchi-pickles)
-	
-	#spicy #chips #cleveland_kitchen #16oz #24oz
-	<img class="image" src="https://i.imgur.com/yUI9aUS.png" width="120">
 
 
 ## Bad - Wouldn't Eat
