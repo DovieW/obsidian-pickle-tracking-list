@@ -656,10 +656,6 @@ kanban-plugin: board
 	
 	#mt_olive #sweet #slices  #24oz
 	<img class="image" src="https://i.imgur.com/mh8EHHN.png" width="140">
-- [ ] [Mt. Olive Bread & Butter Sliders](https://www.mtolivepickles.com/pickle-products/bread-butter-sliders/)
-	
-	#mt_olive #sweet #chips #24oz
-	<img class="image" src="https://i.imgur.com/uMkMHXi.png" width="140">
 - [ ] [Mt. Olive Bread & Butter Spears](https://www.mtolivepickles.com/pickle-products/bread-butter-spears/)
 	
 	#mt_olive #sweet #spears  #24oz
@@ -694,7 +690,7 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/5fWgcuD.png" width="140">
 - [ ] [Mt. Olive Jalapeno Flavored Dill Spears](https://www.mtolivepickles.com/pickle-products/jalapeno-dill-spears/)
 	
-	#mt_olive #24oz #spicy #spicy
+	#mt_olive #24oz #spicy #spicy #wish_list 
 	<img class="image" src="https://i.imgur.com/dTYhgv9.png" width="140">
 - [ ] [Mt. Olive Jumbo Kosher Baby Dills Made With Sea Salt](https://www.mtolivepickles.com/pickle-products/jumbo-kosher-baby-dills-made-with-sea-salt/)
 	
@@ -736,6 +732,10 @@ kanban-plugin: board
 	
 	#mt_olive #24oz #mild #baby #wish_list
 	<img class="image" src="https://i.imgur.com/Co1M1ms.png" width="140">
+- [ ] [Mt. Olive Bread & Butter Sliders](https://www.mtolivepickles.com/pickle-products/bread-butter-sliders/)
+	
+	#mt_olive #sweet #chips #24oz
+	<img class="image" src="https://i.imgur.com/uMkMHXi.png" width="140">
 - [ ] [Mt. Olive Majestic Deli Style Kosher Dill Spears](https://www.mtolivepickles.com/pickle-products/majestic-deli-style-kosher-dill-spears/)
 	
 	#mt_olive #24oz #spears #mild #wish_list
@@ -1195,6 +1195,7 @@ kanban-plugin: board
 	
 	#cleveland_kitchen #pouch #spicy #chips 
 	<img class="image" src="https://cdn.prod.website-files.com/5e5c973b66194f7844935718/65bd08b0411811ca852916e5_11.png" width="140">
+
 
 ## Ok - Wouldn't Buy
 
