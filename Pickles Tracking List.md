@@ -85,11 +85,11 @@ kanban-plugin: board
 
 
 ## Not Rated
+
 - [ ] [Wickle Dirty Dill Okra](https://wicklespickles.com/product/dirty-dill-okra-16-oz/)
 	
 	#wickles #spicy
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
-
 - [ ] [Wickles Dirty Dill Spears](https://wicklespickles.com/product/dirty-dill-spears-24oz/)
 	#wickles #spicy #spears
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-WickedDill-Spears-v3_445x600.png" width="125">
@@ -812,10 +812,6 @@ kanban-plugin: board
 	
 	#mt_olive #16oz #chips #mild #wish_list
 	<img class="image" src="https://i.imgur.com/BSowvrY.png" width="140">
-- [ ] [Mt. Olive Petite Snack Crunchers Mild Buffalo Kosher Dill Pickles](https://www.mtolivepickles.com/pickle-products/petite-snack-crunchers-mild-buffalo-kosher-dill-pickles-16-fl-oz/)
-	
-	#mt_olive #spicy #16oz #baby #wish_list
-	<img class="image" src="https://i.imgur.com/SQdC4uK.png" width="140">
 - [ ] [Mt. Olive Petite Snack Crunchers, Kosher Dills](https://www.mtolivepickles.com/pickle-products/petite-snack-cruncher-kosher-dills/)
 	
 	#mt_olive #mild #baby #24oz
@@ -1044,6 +1040,12 @@ kanban-plugin: board
 	
 	#16oz #mt_olive #mild #gherkins #24oz 
 	<img class="image" src="https://i.imgur.com/pXTu8Ys.png" width="140">
+- [ ] [Mt. Olive Petite Snack Crunchers Mild Buffalo Kosher Dill Pickles](https://www.mtolivepickles.com/pickle-products/petite-snack-crunchers-mild-buffalo-kosher-dill-pickles-16-fl-oz/)
+	
+	Very good. Mild spice.
+	
+	#mt_olive #spicy #16oz #baby #wish_list
+	<img class="image" src="https://i.imgur.com/SQdC4uK.png" width="140">
 - [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Buffalo Kosher Dill Chips](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-buffalo-kosher-dill-chips/)
 	
 	#mt_olive #spicy #chips #5oz
@@ -1187,7 +1189,6 @@ kanban-plugin: board
 	Very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
-
 
 
 ## Ok - Wouldn't Buy
