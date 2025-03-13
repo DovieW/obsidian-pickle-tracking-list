@@ -1026,6 +1026,58 @@ kanban-plugin: board
 	
 	#pouch #baby #5oz #mild #wish_list
 	<img class="image" src="https://i.imgur.com/2RGEtau.png" width="170">
+- [ ] [Wegmans Kosher Dill Baby Pickles](https://beta.wegmans.com/shop/product/43628-Kosher-Dill-Baby-Pickles)
+	
+	#wegmans #wholes #16oz #mild
+	<img class="image" src="https://i.imgur.com/ugjg8sY.png" width="150">
+- [ ] [Wegmans No Salt Added Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43626-No-Salt-Added-Bread-Butter-Pickle-Chips)
+	
+	#wegmans #chips #16oz #sweet 
+	<img class="image" src="https://i.imgur.com/3vBD5al.png" width="150">
+- [ ] [Wegmans Organic Kosher Dill Baby Pickles](https://beta.wegmans.com/shop/product/43632-Kosher-Dill-Baby-Pickles)
+	
+	#wegmans #wholes #24oz #mild  
+	<img class="image" src="https://i.imgur.com/XNEUxXk.png" width="150">
+- [ ] [Wegmans Kosher Dill Sandwich Slice Pickles](https://beta.wegmans.com/shop/product/43624-Kosher-Dill-Sandwich-Slice-Pickles)
+	
+	#wegmans #slices #16oz #mild  
+	<img class="image" src="https://i.imgur.com/lquGCtw.png" width="150">
+- [ ] [Wegmans Hamburger Dill Slices](https://beta.wegmans.com/shop/product/43629-Hamburger-Dill-Slices)
+	
+	#wegmans #chips #16oz #mild 
+	<img class="image" src="https://i.imgur.com/9vYoFBg.png" width="150">
+- [ ] [Wegmans Kosher Dill Whole Pickles](https://beta.wegmans.com/shop/product/43642-Kosher-Dill-Whole-Pickles)
+	
+	#wegmans #wholes #46oz #mild 
+	<img class="image" src="https://i.imgur.com/koJwsuA.png" width="150">
+- [ ] [Wegmans Sweet Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43637-Sweet-Bread-Butter-Pickle-Chips)
+	
+	#wegmans #chips #24oz #sweet 
+	<img class="image" src="https://i.imgur.com/CymFC3B.png" width="150">
+- [ ] [Wegmans Organic Sweet Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43633-Sweet-Bread-Butter-Pickle-Chips)
+	
+	#wegmans #chips #24oz #sweet 
+	<img class="image" src="https://i.imgur.com/omUR8z0.png" width="150">
+- [ ] [Wegmans Kosher Dill Whole Pickles](https://beta.wegmans.com/shop/product/43639-Kosher-Dill-Whole-Pickles)
+	
+	#wegmans #wholes #32oz #mild 
+	<img class="image" src="https://i.imgur.com/V8Q23U1.png" width="150">
+- [ ] [Wegmans Sweet Bread & Butter Sandwich Slice Pickles](https://beta.wegmans.com/shop/product/43625-Sweet-Bread-Butter-Sandwich-Slice-Pickles)
+	
+	#wegmans #slices #16oz #sweet 
+	<img class="image" src="https://i.imgur.com/acchON7.png" width="150">
+- [ ] [Wegmans Sweet Gherkins](https://beta.wegmans.com/shop/product/43621-Sweet-Gherkins)
+	
+	#wegmans #wholes #16oz #sweet 
+	<img class="image" src="https://i.imgur.com/pELspOb.png" width="150">
+- [ ] [Wegmans Polish Dill Spears](https://beta.wegmans.com/shop/product/43636-Polish-Dill-Spears)
+	
+	#wegmans #spearks #24oz #sweet 
+	<img class="image" src="https://i.imgur.com/lIrHew3.png" width="150">
+- [ ] [Wegmans Sweet Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43644-Sweet-Bread-Butter-Pickle-Chips)
+	
+	#wegmans #spearks #24oz #sweet 
+	<img class="image" src="https://i.imgur.com/i15spQc.png" width="150">
 
 
 ## Best
@@ -1082,6 +1134,7 @@ kanban-plugin: board
 	
 	#bg #16oz #wholes #24oz #32oz 
 	<img class="image" src="https://bgpickles.com/wp-content/uploads/product-31500003024.png" width="150">
+- [ ] 
 - [ ] [B&G Kosher Dill Pickle Spears](https://bgpickles.com/product/kosher-dill-pickle-spears/) - very mild, very little crunch
 	
 	#bg #16oz #mild #spears #24oz #32oz 
@@ -1293,6 +1346,7 @@ kanban-plugin: board
 	
 	#vlasic #sweet #spicy #chips #24oz 
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/sweet-heat-chips-24870.png" width="150">
+- [ ] 
 - [ ] [Wickle Dirty Dill Cornichon](https://wicklespickles.com/product/dirty-dill-cornichons-12-oz/)
 	
 	Bit sweet and sour but ok
@@ -1311,7 +1365,12 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
-- [ ] Wegmans Kosher Dill Spears
+- [ ] [Wegmans Kosher Dill Spears](https://beta.wegmans.com/shop/product/43635-Kosher-Dill-Spears)
+	
+	Seems ok but not good. That same fake vinegary taste as the Good & Gather ones
+	
+	#spears #mild #wegmans #24oz 
+	<img class="image" src="https://i.imgur.com/f22os98.png" width="150">
 
 
 ## Bad - Wouldn't Eat
@@ -1455,6 +1514,7 @@ kanban-plugin: board
 - [x] each image has a different height with margins at top and bottom
 - [x] add pickle recipes
 - [x] add analysis of pickle ingredients and manufacturing details
+- [x] How can all images be made the same size
 
 
 ***
