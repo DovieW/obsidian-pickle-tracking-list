@@ -82,6 +82,8 @@ kanban-plugin: board
 	#old_williamsburg
 - [ ] [Cleveland Kitchen](https://www.clevelandkitchen.com/pickles)
 	#cleveland_kitchen
+- [ ] [Wegman's](https://beta.wegmans.com/shop/categories/5681642?refinementList%5BconsumerBrandName%5D%5B0%5D=Wegmans)
+	#wegmans
 
 
 ## Not Rated
@@ -1309,6 +1311,7 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
+- [ ] Wegmans Kosher Dill Spears
 
 
 ## Bad - Wouldn't Eat
