@@ -72,7 +72,7 @@ kanban-plugin: board
 	#van_holtens
 - [ ] [Vlasic](https://www.vlasic.com/)
 	#vlasic
-- [ ] [Wegman's](https://beta.wegmans.com/shop/categories/5681642?refinementList%5BconsumerBrandName%5D%5B0%5D=Wegmans)
+- [ ] [Wegman's](https://beta.wegmans.com/shop/search?query=wegmans%20pickles)
 	#wegmans
 - [ ] [Wickles](https://wicklespickles.com/products/)
 	#wickles
@@ -1068,12 +1068,20 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/pELspOb.png" width="150">
 - [ ] [Wegmans Polish Dill Spears](https://beta.wegmans.com/shop/product/43636-Polish-Dill-Spears)
 	
-	#wegmans #spearks #24oz #sweet 
+	#wegmans #spears #24oz #sweet 
 	<img class="image" src="https://i.imgur.com/lIrHew3.png" width="150">
 - [ ] [Wegmans Sweet Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43644-Sweet-Bread-Butter-Pickle-Chips)
 	
-	#wegmans #spearks #24oz #sweet 
+	#wegmans #spears #24oz #sweet 
 	<img class="image" src="https://i.imgur.com/i15spQc.png" width="150">
+- [ ] [Wegmans Refrigerated Kosher Dill Mini Pickles](https://beta.wegmans.com/shop/product/43254-Refrigerated-Kosher-Dill-Mini-Pickles)
+	
+	#wegmans #wholes #24oz #mild
+	<img class="image" src="https://i.imgur.com/68ND5nz.png" width="150">
+- [ ] [Wegmans Refrigerated Kosher Dill Spears Pickles](https://beta.wegmans.com/shop/product/43253-Refrigerated-Kosher-Dill-Spears-Pickles)
+	
+	#wegmans #spears #24oz #mild
+	<img class="image" src="https://i.imgur.com/8cVSrYK.png" width="150">
 
 
 ## Best
@@ -1246,6 +1254,12 @@ kanban-plugin: board
 	Very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
+- [ ] [Wegmans Refrigerated Kosher Dill Sandwich Slices Pickles](https://beta.wegmans.com/shop/product/43255-Refrigerated-Kosher-Dill-Sandwich-Slices-Pickles)
+	
+	Initially seems bad. But quite fressable.
+	
+	#wegmans #24oz #slices #mild #refrigerated
+	<img class="image" src="https://i.imgur.com/fq67T3g.png" width="150">
 
 
 ## Ok - Wouldn't Buy
