@@ -22,6 +22,8 @@ kanban-plugin: board
 	#bubbies
 - [ ] [Claussen](https://www.kraftheinz.com/claussen/products)
 	#claussen
+- [ ] [Cleveland Kitchen](https://www.clevelandkitchen.com/pickles)
+	#cleveland_kitchen
 - [ ] [Fer-Real](https://ferrealfood.com/products/)
 	#fer-real
 - [ ] [Flaum](https://flaums.com/product-category/pickles/)
@@ -50,12 +52,16 @@ kanban-plugin: board
 	#mt_olive
 - [ ] [Oh Snap!](https://ohsnappickles.com/)
 	#oh_snap
+- [ ] [Old Williamsburg](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
+	#old_williamsburg
 - [ ] [Pickerfresh](https://pickerfresh.com/collections/pickles)
 	#pickerfresh
 - [ ] [Shams](https://shopgalil.com/collections/all?page=1&rb_vendor=Shams&rb_tags=Pickles) - Under Galil
 	#shams
 - [ ] [SuckerPunch](https://suckerpunchpickles.com/collections/shop)
 	#suckerpunch
+- [ ] [The Cheese Guy](https://thecheeseguy.com/products/cornichons)
+	#cheese_guy
 - [ ] [Trader Joes](https://www.traderjoes.com/home/search?q=pickles&section=products&global=yes)
 	#trader_joes
 - [ ] [Uncle Edik's](https://www.uncleedikspickles.com/products)
@@ -66,6 +72,8 @@ kanban-plugin: board
 	#van_holtens
 - [ ] [Vlasic](https://www.vlasic.com/)
 	#vlasic
+- [ ] [Wegman's](https://beta.wegmans.com/shop/categories/5681642?refinementList%5BconsumerBrandName%5D%5B0%5D=Wegmans)
+	#wegmans
 - [ ] [Wickles](https://wicklespickles.com/products/)
 	#wickles
 - [ ] Golden Taste DON'T BUY
@@ -76,14 +84,6 @@ kanban-plugin: board
 	#osem
 - [ ] Williamsburg Pickles DON'T BUY
 	#williamsburg_pickles
-- [ ] [The Cheese Guy](https://thecheeseguy.com/products/cornichons)
-	#cheese_guy
-- [ ] [Old Williamsburg](https://kosherwest.com/Lakewood-NJ/category/645/pickles-olives-kraut/22096/old-williamsburg-dill-pickles-243-oz)
-	#old_williamsburg
-- [ ] [Cleveland Kitchen](https://www.clevelandkitchen.com/pickles)
-	#cleveland_kitchen
-- [ ] [Wegman's](https://beta.wegmans.com/shop/categories/5681642?refinementList%5BconsumerBrandName%5D%5B0%5D=Wegmans)
-	#wegmans
 
 
 ## Not Rated
@@ -714,10 +714,6 @@ kanban-plugin: board
 	
 	#mt_olive #mild #24oz #slices 
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2020/09/LF00286.003_24_KosherDillSliders_1200x1600.png" width="140">
-- [ ] [Mt. Olive Kosher Dill Spears with Sea Salt](https://www.mtolivepickles.com/pickle-products/sea-salt-kosher-dill-spears/)
-	
-	#mt_olive #24oz #mild #spears
-	<img class="image" src="https://i.imgur.com/sk36WQd.png" width="140">
 - [ ] [Mt. Olive Kosher Dills](https://www.mtolivepickles.com/pickle-products/whole-kosher-dills/)
 	
 	#mt_olive #mild #32oz #wholes
@@ -1195,6 +1191,12 @@ kanban-plugin: board
 	
 	#mt_olive #24oz #mild #spears
 	<img class="image" src="https://i.imgur.com/RuHsNZi.png" width="140">
+- [ ] [Mt. Olive Kosher Dill Spears with Sea Salt](https://www.mtolivepickles.com/pickle-products/sea-salt-kosher-dill-spears/)
+	
+	Interesting twist from the original. Very good crunch. Slightly worse than the original.
+	
+	#mt_olive #24oz #mild #spears
+	<img class="image" src="https://i.imgur.com/sk36WQd.png" width="140">
 - [ ] [Mt. Olive Resealable Pickle Pouch – Munchies Kosher Petite Dills](https://www.mtolivepickles.com/pickle-products/resealable-pouch-munchies-kosher-petite-dills/)
 	
 	#mt_olive #baby #mild #5oz
