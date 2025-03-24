@@ -1078,10 +1078,6 @@ kanban-plugin: board
 	
 	#wegmans #wholes #24oz #mild
 	<img class="image" src="https://i.imgur.com/68ND5nz.png" width="150">
-- [ ] [Wegmans Refrigerated Kosher Dill Spears Pickles](https://beta.wegmans.com/shop/product/43253-Refrigerated-Kosher-Dill-Spears-Pickles)
-	
-	#wegmans #spears #24oz #mild
-	<img class="image" src="https://i.imgur.com/8cVSrYK.png" width="150">
 
 
 ## Best
@@ -1381,9 +1377,15 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
+- [ ] [Wegmans Refrigerated Kosher Dill Spears Pickles](https://beta.wegmans.com/shop/product/43253-Refrigerated-Kosher-Dill-Spears-Pickles)
+	
+	Bad initial taste. It is edible and quite decent, but enough unpleasant to be on the Ok list.
+	
+	#wegmans #spears #24oz #mild
+	<img class="image" src="https://i.imgur.com/8cVSrYK.png" width="150">
 - [ ] [Wegmans Kosher Dill Spears](https://beta.wegmans.com/shop/product/43635-Kosher-Dill-Spears)
 	
-	Seems ok but not good. That same fake vinegary taste as the Good & Gather ones
+	Seems ok but not good. That same fake vinegary taste as the Good & Gather jars
 	
 	#spears #mild #wegmans #24oz 
 	<img class="image" src="https://i.imgur.com/f22os98.png" width="150">
