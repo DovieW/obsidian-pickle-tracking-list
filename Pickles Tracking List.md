@@ -28,7 +28,7 @@ kanban-plugin: board
 	#fer-real
 - [ ] [Flaum](https://flaums.com/product-category/pickles/)
 	#flaum
-- [ ] [Galil](https://shopgalil.com/collections/pickles-olives?page=1&rb_vendor=Galil&rb_tags=Pickles)
+- [ ] [Galil](https://shopgalil.com/collections/pickles-olives?tab=products&page=1&rb_tags=Pickles)
 	#galil
 - [ ] [Gefen](https://www.kayco.com/brands/gefen/)
 	#gefen
