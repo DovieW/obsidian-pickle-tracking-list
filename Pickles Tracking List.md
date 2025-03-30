@@ -1270,12 +1270,6 @@ kanban-plugin: board
 	Very clean taste. easy to snack on.
 	#uncle_ediks #spicy #mild #expensive #wholes #jewish 
 	<img class="image" src="https://i.imgur.com/o4qRge8.png" width="200">
-- [ ] [Wegmans Kosher Dill Spears](https://beta.wegmans.com/shop/product/43635-Kosher-Dill-Spears)
-	
-	Quite decent. Not super good though
-	
-	#spears #mild #wegmans #24oz 
-	<img class="image" src="https://i.imgur.com/f22os98.png" width="150">
 - [ ] [Wegmans Refrigerated Kosher Dill Sandwich Slices Pickles](https://beta.wegmans.com/shop/product/43255-Refrigerated-Kosher-Dill-Sandwich-Slices-Pickles)
 	
 	Initially seems bad. But quite fressable.
@@ -1403,6 +1397,12 @@ kanban-plugin: board
 	
 	#imperial #24oz #mild #baby
 	<img class="image" src="https://i.imgur.com/Qo6CYEj.png" width="150">
+- [ ] [Wegmans Kosher Dill Spears](https://beta.wegmans.com/shop/product/43635-Kosher-Dill-Spears)
+	
+	Quite decent. Not super good though
+	
+	#spears #mild #wegmans #24oz 
+	<img class="image" src="https://i.imgur.com/f22os98.png" width="150">
 - [ ] [Wegmans Refrigerated Kosher Dill Spears Pickles](https://beta.wegmans.com/shop/product/43253-Refrigerated-Kosher-Dill-Spears-Pickles)
 	
 	Bad initial taste. It is edible and quite decent, but enough unpleasant to be on the Ok list.
