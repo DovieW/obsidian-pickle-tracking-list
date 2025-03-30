@@ -1051,10 +1051,6 @@ kanban-plugin: board
 	
 	#wegmans #spears #24oz #sweet 
 	<img class="image" src="https://i.imgur.com/lIrHew3.png" width="150">
-- [ ] [Wegmans Refrigerated Kosher Dill Mini Pickles](https://beta.wegmans.com/shop/product/43254-Refrigerated-Kosher-Dill-Mini-Pickles)
-	
-	#wegmans #wholes #24oz #mild
-	<img class="image" src="https://i.imgur.com/68ND5nz.png" width="150">
 - [ ] [Wegmans Sweet Bread & Butter Pickle Chips](https://beta.wegmans.com/shop/product/43637-Sweet-Bread-Butter-Pickle-Chips)
 	
 	#wegmans #chips #24oz #sweet 
@@ -1417,6 +1413,12 @@ kanban-plugin: board
 
 ## Bad - Wouldn't Eat
 
+- [ ] [Wegmans Refrigerated Kosher Dill Mini Pickles](https://beta.wegmans.com/shop/product/43254-Refrigerated-Kosher-Dill-Mini-Pickles)
+	
+	Weird annoying taste. What is this?
+	
+	#wegmans #wholes #24oz #mild
+	<img class="image" src="https://i.imgur.com/68ND5nz.png" width="150">
 - [ ] [Suckerpunch Fiery Hot 3-Pepper Snack Pack](https://suckerpunchpickles.com/products/3-pepper-fire-pickle-chips?variant=32933502124137)
 	
 	#suckerpunch #pouch #3oz #spicy #chips 
