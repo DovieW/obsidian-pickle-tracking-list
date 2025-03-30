@@ -404,10 +404,6 @@ kanban-plugin: board
 	
 	#great_value #sweet #chips 
 	<img class="image" src="https://i.imgur.com/DUiIEPk.png" width="160">
-- [ ] [Grillo's Blazing Hot Chips](https://www.grillos.com/product/blazing-hot-chips/)
-	
-	#grillos #spicy #16oz #chips
-	<img class="image" src="https://i.imgur.com/Z7uZsnB.png" width="150">
 - [ ] [Grillo's Dill Chips](https://www.grillos.com/product/dill-chips/)
 	
 	#grillos #chips #mild #16oz
@@ -1144,6 +1140,12 @@ kanban-plugin: board
 
 ## Good
 
+- [ ] [Grillo's Blazing Hot Chips](https://www.grillos.com/product/blazing-hot-chips/)
+	
+	Not as spicy as the packaging suggests. Spicy in a nice way, it feels "airy". Too vinegary though overall.
+	
+	#grillos #spicy #16oz #chips #tzips_favs 
+	<img class="image" src="https://i.imgur.com/Z7uZsnB.png" width="150">
 - [ ] [Galil Dill Pickles Spears](https://shopgalil.com/collections/pickles-olives/products/dill-pickles-spears-24oz-galil)
 	
 	Quite good. Unique taste.
@@ -1511,6 +1513,8 @@ kanban-plugin: board
 	#jewish
 - [ ] Sour Mimic
 	#sour_mimic
+- [ ] Tzip's Favorites
+	#tzips_favs
 
 
 ## Size
