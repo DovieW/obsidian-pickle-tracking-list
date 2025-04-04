@@ -1409,6 +1409,12 @@ kanban-plugin: board
 	
 	#wegmans #spears #24oz #mild
 	<img class="image" src="https://i.imgur.com/8cVSrYK.png" width="150">
+- [ ] [Uncle Edik's Spicy Pickles Medium](https://www.uncleedikspickles.com/products/spicy-pickles)
+	
+	Barely spicy at all. It quite decent to eat with food like chulent. But not very good by itself. Has that same breezy Uncle Edik's taste that's different. Not very punchy flavor at all.
+	
+	#uncle_ediks #spears #32oz #mild
+	<img class="image" src="https://i.imgur.com/6GEBsWY.png" width="150">
 
 
 ## Bad - Wouldn't Eat
