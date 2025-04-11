@@ -1134,6 +1134,8 @@ kanban-plugin: board
 
 - [ ] [Bubbies Baby Kosher Dill Pickles](https://www.bubbies.com/products/baby-kosher-dill-pickles)
 	
+	Quite good. Has that signature zing that Bubbies always has. Probably not worth they hefty price tag as per Bubbies usual.
+	
 	#bubbies #sour #baby  
 	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/6388fd53819e9673b74942e3_BabyKosherDill.webp" width="110">
 - [ ] [Grillo's Blazing Hot Chips](https://www.grillos.com/product/blazing-hot-chips/)
