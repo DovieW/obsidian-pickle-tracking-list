@@ -224,10 +224,6 @@ kanban-plugin: board
 	
 	#boars_head #spears #spicy #26oz #wish_list
 	<img class="image" src="https://i.imgur.com/CUChLYm.png" width="160">
-- [ ] [Bubbies Baby Kosher Dill Pickles](https://www.bubbies.com/products/baby-kosher-dill-pickles)
-	
-	#bubbies #sour #baby  
-	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/6388fd53819e9673b74942e3_BabyKosherDill.webp" width="110">
 - [ ] [Bubbies Bread & Butter Chips](https://www.bubbies.com/products/bread-and-butter-chips)
 	
 	#bubbies #chips #sour #sweet 
@@ -259,7 +255,7 @@ kanban-plugin: board
 - [ ] [Bubbies Spicy Kosher Dill Pickles](https://www.bubbies.com/products/spicy-kosher-dills)
 	
 	#bubbies #sour #spicy #wholes 
-	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/63f7de3342a3c674aa4e77d3_Bubbies-Spicy-Kosher-Dill-Pickles%20(1" width="110">.webp)
+	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/63f7de3342a3c674aa4e77d3_Bubbies-Spicy-Kosher-Dill-Pickles%20(1).webp" width="110">
 - [ ] [Claussen Hearty Garlic Deli-Style Pickle Wholes](https://www.kraftheinz.com/claussen/products/00044700092255-hearty-garlic-deli-style-pickle-wholes)
 	
 	#claussen #sour #mild #wholes #32oz 
@@ -1136,6 +1132,10 @@ kanban-plugin: board
 
 ## Good
 
+- [ ] [Bubbies Baby Kosher Dill Pickles](https://www.bubbies.com/products/baby-kosher-dill-pickles)
+	
+	#bubbies #sour #baby  
+	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/6388fd53819e9673b74942e3_BabyKosherDill.webp" width="110">
 - [ ] [Grillo's Blazing Hot Chips](https://www.grillos.com/product/blazing-hot-chips/)
 	
 	Not as spicy as the packaging suggests. Spicy in a nice way, it feels "airy". Too vinegary though overall.
