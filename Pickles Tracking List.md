@@ -492,10 +492,6 @@ kanban-plugin: board
 	
 	#market_pantry #24oz #mild #spears #wish_list 
 	<img class="image" src="https://i.imgur.com/MfcP0n9.png" width="170">
-- [ ] [Market Pantry Kosher Dill Sandwich Slices](https://www.target.com/p/kosher-dill-sandwich-slices-16oz-market-pantry-8482/-/A-76556965#lnk=sametab)
-	
-	#market_pantry #16oz #mild #wish_list #slices
-	<img class="image" src="https://i.imgur.com/AMNuEoG.png" width="170">
 - [ ] [Market Pantry Kosher Dill Whole Pickles](https://www.target.com/p/kosher-dill-whole-pickles-46oz-market-pantry-8482/-/A-76556963#lnk=sametab)
 	
 	#market_pantry #46oz #wholes #mild #wish_list
@@ -1094,7 +1090,7 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/0yYilkH.png" width="150">
 - [ ] [Mt. Olive Kosher Baby Dills](https://www.mtolivepickles.com/pickle-products/kosher-baby-dills/)
 	
-	Very solid. So far seems like the 24oz jar is not as good as the 16oz
+	Very solid. Though it seems like the 16oz jar is the good one. The 24oz jar is not nearly as good it seems.
 	
 	#16oz #mt_olive #mild #gherkins #24oz 
 	<img class="image" src="https://i.imgur.com/pXTu8Ys.png" width="140">
@@ -1128,6 +1124,12 @@ kanban-plugin: board
 	
 	#trader_joes #spicy #gherkins
 	<img class="image"  src="https://i.imgur.com/wucNZnl.png" width="170">
+- [ ] [Mt. Olive Jalapeno Slices](https://www.mtolivepickles.com/pickle-products/jalapeno-slices/)
+	
+	Really good flavor. Not too spicy.
+	
+	#spicy #12oz #chips
+	<img class="image"  src="https://i.imgur.com/FgQKUSl.png" width="110">
 
 
 ## Good
@@ -1282,6 +1284,12 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
+- [ ] [Market Pantry Kosher Dill Sandwich Slices](https://www.target.com/p/kosher-dill-sandwich-slices-16oz-market-pantry-8482/-/A-76556965#lnk=sametab)
+	
+	Lame flavor
+	
+	#market_pantry #16oz #mild #wish_list #slices
+	<img class="image" src="https://i.imgur.com/AMNuEoG.png" width="170">
 - [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
 	
 	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
