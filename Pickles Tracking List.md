@@ -488,10 +488,6 @@ kanban-plugin: board
 	
 	#market_pantry #24oz #32oz  #chips #mild #wish_list
 	<img class="image" src="https://i.imgur.com/JghPFw1.png" width="170">
-- [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
-	
-	#market_pantry #24oz #mild #spears #wish_list 
-	<img class="image" src="https://i.imgur.com/MfcP0n9.png" width="170">
 - [ ] [Market Pantry Kosher Dill Whole Pickles](https://www.target.com/p/kosher-dill-whole-pickles-46oz-market-pantry-8482/-/A-76556963#lnk=sametab)
 	
 	#market_pantry #46oz #wholes #mild #wish_list
@@ -1207,6 +1203,12 @@ kanban-plugin: board
 	
 	#haddar #spicy #sweet #pouch #3oz #jewish #chips  
 	<img class="image" src="https://i.imgur.com/8uNNf93.png" width="100">
+- [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
+	
+	Quite solid.
+	
+	#market_pantry #24oz #mild #spears #wish_list 
+	<img class="image" src="https://i.imgur.com/MfcP0n9.png" width="170">
 - [ ] [Market Pantry Kosher Dill Snack Pickles](https://www.target.com/p/kosher-dill-snack-pickles-16-fl-oz-market-pantry-8482/-/A-76556915#lnk=sametab)
 	
 	Very crunchy. Vinegary. Solid classic dilly taste.
