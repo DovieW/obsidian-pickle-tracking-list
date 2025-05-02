@@ -1070,10 +1070,6 @@ kanban-plugin: board
 	
 	#wickles #spicy #sweet #16oz #chips 
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2022/03/Wickles-Wicked-Hula-Pickles-16oz-2.png" width="150">
-- [ ] Flaum Hot Sour Pickles
-	
-	#flaum #spicy #sour #wholes #jewish 
-	<img class="image" src="https://flaums.com/wp-content/uploads/2024/07/DSC_7887-1.png" width="150">
 
 
 ## Best
@@ -1179,6 +1175,10 @@ kanban-plugin: board
 	
 	#fer-real #sour #wholes #jewish #wholes #48oz #32oz 	
 	<img class="image" src="https://i.imgur.com/4mFoKCz.png" width="170">
+- [ ] Flaum Hot Sour Pickles
+	
+	#flaum #spicy #sour #wholes #jewish 
+	<img class="image" src="https://flaums.com/wp-content/uploads/2024/07/DSC_7887-1.png" width="150">
 - [ ] [Flaum Sour Pickles](https://flaums.com/product/sour-pickles/)
 	
 	#flaum #sour #wholes #jewish 
