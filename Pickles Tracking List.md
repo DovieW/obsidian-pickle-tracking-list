@@ -1203,6 +1203,12 @@ kanban-plugin: board
 	
 	#haddar #spicy #sweet #pouch #3oz #jewish #chips  
 	<img class="image" src="https://i.imgur.com/8uNNf93.png" width="100">
+- [ ] [Market Pantry Kosher Dill Sandwich Slices](https://www.target.com/p/kosher-dill-sandwich-slices-16oz-market-pantry-8482/-/A-76556965#lnk=sametab)
+	
+	Lame flavor but still good somehow
+	
+	#market_pantry #16oz #mild #wish_list #slices
+	<img class="image" src="https://i.imgur.com/AMNuEoG.png" width="170">
 - [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
 	
 	Quite solid.
@@ -1286,12 +1292,6 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
-- [ ] [Market Pantry Kosher Dill Sandwich Slices](https://www.target.com/p/kosher-dill-sandwich-slices-16oz-market-pantry-8482/-/A-76556965#lnk=sametab)
-	
-	Lame flavor
-	
-	#market_pantry #16oz #mild #wish_list #slices
-	<img class="image" src="https://i.imgur.com/AMNuEoG.png" width="170">
 - [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
 	
 	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
