@@ -1177,6 +1177,8 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/4mFoKCz.png" width="170">
 - [ ] Flaum Hot Sour Pickles
 	
+	The jar I had had a weird flavor but still quite good. Very spicy.
+	
 	#flaum #spicy #sour #wholes #jewish 
 	<img class="image" src="https://flaums.com/wp-content/uploads/2024/07/DSC_7887-1.png" width="150">
 - [ ] [Flaum Sour Pickles](https://flaums.com/product/sour-pickles/)
