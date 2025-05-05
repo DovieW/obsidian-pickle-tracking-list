@@ -1063,9 +1063,6 @@ kanban-plugin: board
 	
 	#wickles #spicy
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2019/02/16oz-Wickles-DirtyDillOkra-v3_445x600.png" width="125">
-- [ ] [Wickles Dirty Dill Spears](https://wicklespickles.com/product/dirty-dill-spears-24oz/)
-	#wickles #spicy #spears
-	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-WickedDill-Spears-v3_445x600.png" width="125">
 - [ ] [Wickles Wicked Hula Pickles](https://wicklespickles.com/product/wicked-hula-pickles-16-oz/)
 	
 	#wickles #spicy #sweet #16oz #chips 
@@ -1096,6 +1093,9 @@ kanban-plugin: board
 	
 	#mt_olive #spicy #chips #5oz
 	<img class="image" src="https://i.imgur.com/REQuNNF.png" width="140">
+- [ ] [Wickles Dirty Dill Spears](https://wicklespickles.com/product/dirty-dill-spears-24oz/)
+	#wickles #spicy #spears
+	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2016/12/24oz-Wickles-WickedDill-Spears-v3_445x600.png" width="125">
 - [ ] [Wickle Dirty Dill Baby Dills](https://wicklespickles.com/product/dirty-dill-baby-dills-24oz/) 
 	
 	Strong but not like the original wickles. very good.
