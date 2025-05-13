@@ -484,10 +484,6 @@ kanban-plugin: board
 	
 	#market_pantry #32oz #mild #wholes #wish_list
 	<img class="image" src="https://i.imgur.com/7dGAXnu.png" width="170">
-- [ ] [Market Pantry Kosher Dill Hamburger Chips](https://www.target.com/p/kosher-hamburger-dill-chips-24oz-market-pantry-8482/-/A-76557053#lnk=sametab) - [32oz](https://www.target.com/p/hamburger-dill-round-cut-chips-32oz-market-pantry-8482/-/A-76557055#lnk=sametab)
-	
-	#market_pantry #24oz #32oz  #chips #mild #wish_list
-	<img class="image" src="https://i.imgur.com/JghPFw1.png" width="170">
 - [ ] [Market Pantry Kosher Dill Whole Pickles](https://www.target.com/p/kosher-dill-whole-pickles-46oz-market-pantry-8482/-/A-76556963#lnk=sametab)
 	
 	#market_pantry #46oz #wholes #mild #wish_list
@@ -1211,6 +1207,10 @@ kanban-plugin: board
 	
 	#market_pantry #16oz #mild #wish_list #slices
 	<img class="image" src="https://i.imgur.com/AMNuEoG.png" width="170">
+- [ ] [Market Pantry Kosher Dill Hamburger Chips](https://www.target.com/p/kosher-hamburger-dill-chips-24oz-market-pantry-8482/-/A-76557053#lnk=sametab) - [32oz](https://www.target.com/p/hamburger-dill-round-cut-chips-32oz-market-pantry-8482/-/A-76557055#lnk=sametab)
+	
+	#market_pantry #24oz #32oz  #chips #mild #wish_list
+	<img class="image" src="https://i.imgur.com/JghPFw1.png" width="170">
 - [ ] [Market Pantry Kosher Dill Pickle Spears](https://www.target.com/p/kosher-dill-spears-24oz-market-pantry-8482/-/A-76557038#lnk=sametab)
 	
 	Quite solid.
