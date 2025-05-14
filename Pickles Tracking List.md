@@ -340,10 +340,6 @@ kanban-plugin: board
 	
 	#24oz #baby #mild #galil
 	<img class="image" src="https://i.imgur.com/sXTihwg.png" width="150">
-- [ ] [Galil Dill Pickles Medium Gherkins](https://shopgalil.com/collections/pickles-olives/products/galil-dill-pickles-medium-gherkins-pack-of-12)
-	
-	#galil #jewish #israeli #mild #gherkins #24oz
-	<img class="image" src="https://i.imgur.com/HJfceWr.png" width="160">
 - [ ] [Galil Dill Pickles Small](https://shopgalil.com/collections/pickles-olives/products/dill-pickles-small-46-3-oz-galil)
 	
 	#galil #mild #46oz #wholes
@@ -1273,6 +1269,11 @@ kanban-plugin: board
 	
 	#van_holtens #mild #wholes #pouch 
 	<img class="image" src="https://i.imgur.com/PKO2JP8.png" width="175">
+- [ ] [Galil Dill Pickles Medium Gherkins](https://shopgalil.com/collections/pickles-olives/products/galil-dill-pickles-medium-gherkins-pack-of-12)
+	There's a new label for this. Very garlicy.
+	
+	#galil #jewish #israeli #mild #gherkins #24oz
+	<img class="image" src="https://i.imgur.com/HJfceWr.png" width="160">
 - [ ] Galil Kosher Dill Pickle Gherkins Small
 	
 	Can't find online - Interesting horseradish taste
