@@ -1114,6 +1114,10 @@ kanban-plugin: board
 	
 	#spicy #12oz #chips
 	<img class="image"  src="https://i.imgur.com/FgQKUSl.png" width="110">
+- [ ] [Grillo's Medium Pickle De Gallo](https://www.grillos.com/product/medium-pickle-de-gallo/)
+	
+	#spicy #12oz
+	<img class="image"  src="https://i.imgur.com/FgQKUSl.png" width="110">
 
 
 ## Good
