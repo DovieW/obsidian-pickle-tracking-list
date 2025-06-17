@@ -1059,6 +1059,18 @@ kanban-plugin: board
 	
 	#wickles #spicy #sweet #16oz #chips 
 	<img class="image" src="https://wicklespickles.com/wp-content/uploads/2022/03/Wickles-Wicked-Hula-Pickles-16oz-2.png" width="150">
+- [ ] [Grillo's MILD Pickle De Gallo](https://www.grillos.com/product/mild-pickle-de-gallo/)
+	
+	#grillos #14oz #mild 
+	<img class="image" src="https://i.imgur.com/c2Qq1tD.png" width="150">
+- [ ] [Grillo's HOT Pickle De Gallo](https://www.grillos.com/product/hot-pickle-de-gallo/)
+	
+	#grillos #14oz #spicy 
+	<img class="image" src="https://i.imgur.com/c2Qq1tD.png" width="150">
+- [ ] [Grillo's Dill Carrots](https://www.grillos.com/product/dill-carrots/)
+	
+	#grillos #16oz
+	<img class="image" src="https://i.imgur.com/YWeQDMV.png" width="150">
 
 
 ## Best
@@ -1116,8 +1128,8 @@ kanban-plugin: board
 	<img class="image"  src="https://i.imgur.com/FgQKUSl.png" width="110">
 - [ ] [Grillo's Medium Pickle De Gallo](https://www.grillos.com/product/medium-pickle-de-gallo/)
 	
-	#spicy #12oz
-	<img class="image"  src="https://i.imgur.com/FgQKUSl.png" width="110">
+	#14oz #grillos #spicy 
+	<img class="image"  src="https://i.imgur.com/LACbr1F.png" width="150">
 
 
 ## Good
