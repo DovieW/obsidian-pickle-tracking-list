@@ -220,10 +220,6 @@ kanban-plugin: board
 	
 	#26oz #mild #wholes #boars_head #wish_list 
 	<img class="image" src="https://i.imgur.com/XdnbFdI.png" width="160">
-- [ ] [Boar's Head Spicy Dill Pickle Spears](https://boarshead.com/products/condiments/1221975904-spicy-dill-pickle-spears)
-	
-	#boars_head #spears #spicy #26oz #wish_list
-	<img class="image" src="https://i.imgur.com/CUChLYm.png" width="160">
 - [ ] [Bubbies Bread & Butter Chips](https://www.bubbies.com/products/bread-and-butter-chips)
 	
 	#bubbies #chips #sour #sweet 
@@ -1075,6 +1071,11 @@ kanban-plugin: board
 
 ## Best
 
+- [ ] [Boar's Head Spicy Dill Pickle Spears](https://boarshead.com/products/condiments/1221975904-spicy-dill-pickle-spears)
+	Very bad at first but actually really good.
+	
+	#boars_head #spears #spicy #26oz #wish_list
+	<img class="image" src="https://i.imgur.com/CUChLYm.png" width="160">
 - [ ] [Grillo's Hot Chips](https://www.grillos.com/product/hot-chips/)
 	
 	Very spicy. Crunchy. Great "airy" taste. Vingery. Can't eat too many at once.
