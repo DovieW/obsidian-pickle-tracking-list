@@ -384,10 +384,6 @@ kanban-plugin: board
 	
 	#good_gather #32oz #mild #chips 
 	<img class="image" src="https://i.imgur.com/2LOXGYD.png" width="170">
-- [ ] [Good & Gather Petite Kosher Dill Pickle Snack Pouch](https://www.target.com/p/petite-kosher-dill-pickle-snack-pouch-4-8oz-good-38-gather-8482/-/A-89240397#lnk=sametab)
-	
-	#pouch #baby #5oz #mild #wish_list
-	<img class="image" src="https://i.imgur.com/2RGEtau.png" width="170">
 - [ ] [Great Value Bread & Butter Chips Pickles](https://www.walmart.com/ip/Great-Value-Bread-Butter-Chips-Pickles-Fresh-Pack-24-fl-oz/644620176?classType=REGULAR)
 	
 	#great_value #sweet #chips 
@@ -1135,6 +1131,12 @@ kanban-plugin: board
 
 ## Good
 
+- [ ] [Good & Gather Petite Kosher Dill Pickle Snack Pouch](https://www.target.com/p/petite-kosher-dill-pickle-snack-pouch-4-8oz-good-38-gather-8482/-/A-89240397#lnk=sametab)
+	
+	Very decent, but comes with very little in the pouch and lots of water.
+	
+	#pouch #baby #5oz #mild #wish_list #good_gather 
+	<img class="image" src="https://i.imgur.com/2RGEtau.png" width="170">
 - [ ] [Bubbies Baby Kosher Dill Pickles](https://www.bubbies.com/products/baby-kosher-dill-pickles)
 	
 	Quite good. Has that signature zing that Bubbies always has. Probably not worth they hefty price tag for such a small jar.
