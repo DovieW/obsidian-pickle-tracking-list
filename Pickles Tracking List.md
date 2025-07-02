@@ -1059,7 +1059,26 @@ kanban-plugin: board
 	
 	#grillos #16oz
 	<img class="image" src="https://i.imgur.com/YWeQDMV.png" width="150">
-
+- [ ] [Cleveland Kitchen Single Serve Kimchi Pickle Chips](https://www.clevelandkitchen.com/pickles/single-serve-kimchi-pickle-chips)
+	
+	#cleveland_kitchen  #pouch #chips 
+	<img class="image" src="https://i.imgur.com/K3essCE.png" width="140">
+- [ ] [Cleveland Kitchen Kimchi Pickle Spears](https://www.clevelandkitchen.com/pickles/kimchi-pickle-spears)
+	
+	#cleveland_kitchen  #32oz #spears 
+	<img class="image" src="https://i.imgur.com/El3yViL.png" width="140">
+- [ ] [Cleveland Kitchen Single Serve Hot Picks Pickle Chips](https://www.clevelandkitchen.com/pickles/hot-picks-pickle-chips)
+	
+	#cleveland_kitchen  #pouch #chips #spicy  
+	<img class="image" src="https://i.imgur.com/5BNN0Wj.png" width="140">
+- [ ] [Cleveland Kitchen Classic Dill Pickle Chips](https://www.clevelandkitchen.com/pickles/classic-pickle-chips)
+	
+	#cleveland_kitchen  #chips #mild  
+	<img class="image" src="https://i.imgur.com/IfvxjS2.png" width="140">
+- [ ] [Cleveland Kitchen Single Serve Classic Dill Pickle Chips](https://www.clevelandkitchen.com/pickles/single-serve-kimchi-pickle-chips)
+	
+	#cleveland_kitchen  #pouch #mild 
+	<img class="image" src="https://i.imgur.com/gkOWMv8.png" width="140">
 
 ## Best
 
@@ -1127,6 +1146,12 @@ kanban-plugin: board
 
 ## Good
 
+- [ ] [Cleveland Kitchen Classic Dill Pickle Spears](https://www.clevelandkitchen.com/pickles/classic-dill-pickle-spears)
+	
+	Was unsure at first, but quite solid.
+	
+	#cleveland_kitchen  #spears  #mild #32oz 
+	<img class="image" src="https://i.imgur.com/1A8iZFG.png" width="140">
 - [ ] [Claussen Kosher Dill Pickle Sandwich Slices](https://www.kraftheinz.com/claussen/products/00044700092194-kosher-dill-pickle-sandwich-slices)
 	
 	Very solid
