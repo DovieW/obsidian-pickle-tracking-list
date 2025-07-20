@@ -384,10 +384,6 @@ kanban-plugin: board
 	
 	#great_value #sweet #chips 
 	<img class="image" src="https://i.imgur.com/DUiIEPk.png" width="160">
-- [ ] [Grillo's Dill Chips](https://www.grillos.com/product/dill-chips/)
-	
-	#grillos #chips #mild #16oz
-	<img class="image" src="https://i.imgur.com/favu1aq.png" width="150">
 - [ ] [Grillo's Dill Halves](https://www.grillos.com/product/dill-halves/)
 	
 	#grillos #32oz #mild #halves 
@@ -1080,6 +1076,7 @@ kanban-plugin: board
 	#cleveland_kitchen  #pouch #mild 
 	<img class="image" src="https://i.imgur.com/gkOWMv8.png" width="140">
 
+
 ## Best
 
 - [ ] [Boar's Head Spicy Dill Pickle Spears](https://boarshead.com/products/condiments/1221975904-spicy-dill-pickle-spears)
@@ -1087,6 +1084,12 @@ kanban-plugin: board
 	
 	#boars_head #spears #spicy #26oz #wish_list
 	<img class="image" src="https://i.imgur.com/CUChLYm.png" width="160">
+- [ ] [Grillo's Dill Chips](https://www.grillos.com/product/dill-chips/)
+	
+	Super solid vinegary.
+	
+	#grillos #chips #mild #16oz
+	<img class="image" src="https://i.imgur.com/favu1aq.png" width="150">
 - [ ] [Grillo's Hot Chips](https://www.grillos.com/product/hot-chips/)
 	
 	Very spicy. Crunchy. Great "airy" taste. Vingery. Can't eat too many at once.
@@ -1341,6 +1344,14 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
+- [ ] [Fine Pairing's Cornichons](https://thecheeseguy.com/products/cornichons)
+	
+	First time i ate this: Unique taste. Not good. Maybe meant to eat with cheese or something.
+	
+	Second time: taste more normal and mild. Not bad actually.
+	
+	#cheese_guy #12oz #mild #baby
+	<img class="image" src="https://i.imgur.com/c4emBf4.png" width="100">
 - [ ] [Boar's Head Kosher Dill Pickles Half-Cut Pickles](https://boarshead.com/products/condiments/488-kosher-dill-pickle-1-2-cut-26oz-jar)
 	
 	Very good crunch. Mimics a sour pickle. Interesting flavor. Bit too vinegary. Took me time to get used to. Decent.
@@ -1512,12 +1523,6 @@ kanban-plugin: board
 	
 	#pouch #mt_olive #mild
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png" width="140">
-- [ ] [Fine Pairing's Cornichons](https://thecheeseguy.com/products/cornichons)
-	
-	Unique taste. Not good. Maybe meant to eat with cheese or something.
-	
-	#cheese_guy #12oz #mild #baby
-	<img class="image" src="https://i.imgur.com/c4emBf4.png" width="100">
 
 
 ## Other
