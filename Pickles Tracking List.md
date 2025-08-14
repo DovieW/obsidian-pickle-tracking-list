@@ -1515,11 +1515,15 @@ kanban-plugin: board
 	
 	<img class="image" src="https://www.vlasic.com/sites/g/files/qyyrlu671/files/images/products/zesty-dill-spears-08178.png" width="150">
 - [ ] [Van Holten's TAPATIO PICKLE
-	SALSA PICANTE](https://vanholtenpickles.com/tapatio-pickle/) - 🤮
+	SALSA PICANTE](https://vanholtenpickles.com/tapatio-pickle/)
+	
+	🤮
 	
 	#van_holtens #tart #wholes #pouch 
 	<img class="image" src="https://i.imgur.com/Ph4xrtF.png" width="175">
-- [ ] [Mt. Olive Kosher Dill Petites picklePAK](https://www.mtolivepickles.com/pickle-products/kosher-dill-petites-picklepak/) - weird
+- [ ] [Mt. Olive Kosher Dill Petites picklePAK](https://www.mtolivepickles.com/pickle-products/kosher-dill-petites-picklepak/)
+	
+	weird
 	
 	#pouch #mt_olive #mild
 	<img class="image" src="https://cdn.shortpixel.ai/spai/q_lossy+to_webp+ret_img/www.mtolivepickles.com/wp-content/uploads/2014/10/10012_PicklePAK_KosherDillPetites.png" width="140">
