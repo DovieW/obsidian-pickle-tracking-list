@@ -396,10 +396,6 @@ kanban-plugin: board
 	
 	#grillos #32oz #mild #spears
 	<img class="image" src="https://i.imgur.com/j7gXdTd.png" width="150">
-- [ ] [Grillo's Dill Thickles](https://www.grillos.com/product/dill-thickles/)
-	
-	#grillos #chips #mild #16oz
-	<img class="image" src="https://i.imgur.com/dV4kaaF.png" width="150">
 - [ ] [Grillo's Dill Wholes](https://www.grillos.com/product/dill-wholes/)
 	
 	#grillos #wholes #mild #32oz
@@ -1173,6 +1169,10 @@ kanban-plugin: board
 	
 	#bubbies #sour #baby #16oz  
 	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/6388fd53819e9673b74942e3_BabyKosherDill.webp" width="110">
+- [ ] [Grillo's Dill Thickles](https://www.grillos.com/product/dill-thickles/)
+	
+	#grillos #chips #mild #16oz
+	<img class="image" src="https://i.imgur.com/dV4kaaF.png" width="150">
 - [ ] [Grillo's Blazing Hot Chips](https://www.grillos.com/product/blazing-hot-chips/)
 	
 	Not as spicy as the packaging suggests. Spicy in a nice way, it feels "airy". Too vinegary though overall.
