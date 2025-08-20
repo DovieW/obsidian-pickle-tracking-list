@@ -2,6 +2,5 @@ views:
   - type: table
     name: Table
   - type: cards
-    name: Cards
-    cardSize: 230
-    imageAspectRatio: 1
+    name: View
+    image: file.file
