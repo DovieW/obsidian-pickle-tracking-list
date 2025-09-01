@@ -244,10 +244,6 @@ kanban-plugin: board
 	
 	#bubbies #spicy #sour #sweet #chips 
 	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/648b50c8d78baa307be48cf3_Bubbies_Spicy_Bread_and_Butter_Chips.png" width="110">
-- [ ] [Bubbies Spicy Kosher Dill Pickle Chips](https://www.bubbies.com/products/spicy-kosher-dill-pickle-chips)
-	
-	#bubbies #sour #spicy #chips 
-	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/65e26c96396e4a0ec76dbec9_Spicy%20KDP%20Chips_Bubbies%20-%20400x666.png" width="110">
 - [ ] [Bubbies Spicy Kosher Dill Pickles](https://www.bubbies.com/products/spicy-kosher-dills)
 	
 	#bubbies #sour #spicy #wholes 
@@ -1344,6 +1340,12 @@ kanban-plugin: board
 
 ## Ok - Wouldn't Buy
 
+- [ ] [Bubbies Spicy Kosher Dill Pickle Chips](https://www.bubbies.com/products/spicy-kosher-dill-pickle-chips)
+	
+	Pretty good. It seems to be much better when its a bit dried out... like the top bits that aren't sitting in the water.
+	
+	#bubbies #sour #spicy #chips 
+	<img class="image" src="https://cdn.prod.website-files.com/637b987ac65fb83e96f253a0/65e26c96396e4a0ec76dbec9_Spicy%20KDP%20Chips_Bubbies%20-%20400x666.png" width="110">
 - [ ] [Fine Pairing's Cornichons](https://thecheeseguy.com/products/cornichons)
 	
 	First time i ate this: Unique taste. Not good. Maybe meant to eat with cheese or something.
