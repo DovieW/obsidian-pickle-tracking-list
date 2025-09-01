@@ -5,3 +5,26 @@
 /.obsidian/plugins/remember-cursor-position/cursor-positions.json
 /conflict-files-obsidian-git.md
 .trash/
+.obsidian/icons/
+
+# .gitignore - Ignore common image formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.heic
+*.heif
+*.ico
+*.svg
+*.psd
+*.xcf
+*.raw
+*.cr2
+*.nef
+*.orf
+*.arw
+
