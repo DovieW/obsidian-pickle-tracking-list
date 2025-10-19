@@ -1067,24 +1067,20 @@ kanban-plugin: board
 	<img class="image" src="https://i.imgur.com/gkOWMv8.png" width="140">
 - [ ] [Woodstock Organic Kosher Whole Dill Pickles](https://www.woodstock-foods.com/the-goods/product.organic-kosher-whole-dill-pickles-042563013660.html)
 	
-	#woodstock #mild #wholes 
-	<img class="image" src="" width="140">
-- [ ] [Woodstock]()
+	#woodstock #mild #wholes #24oz 
+	<img class="image" src="https://i.imgur.com/tCv0WP2.png" width="140">
+- [ ] [Woodstock Organic Kosher Baby Dill Pickles](https://www.woodstock-foods.com/the-goods/product.organic-kosher-baby-dill-pickles-042563013653.html)
 	
-	#woodstock #mild 
-	<img class="image" src="" width="140">
-- [ ] [Woodstock]()
+	#woodstock #mild #baby #24oz 
+	<img class="image" src="https://i.imgur.com/F1k16RQ.png" width="140">
+- [ ] [Woodstock Organic Bread and Butter Pickles](https://www.woodstock-foods.com/the-goods/product.organic-bread-and-butter-pickles-042563013646.html)
 	
-	#woodstock #mild 
-	<img class="image" src="" width="140">
-- [ ] [Woodstock]()
+	#woodstock #chips #24oz #sweet 
+	<img class="image" src="https://i.imgur.com/hmoUVf1.png" width="140">
+- [ ] [Woodstock Organic Kosher Sliced Dill Pickles](https://www.woodstock-foods.com/the-goods/product.organic-kosher-sliced-dill-pickles-042563013677.html)
 	
-	#woodstock #mild 
-	<img class="image" src="" width="140">
-- [ ] [Woodstock]()
-	
-	#woodstock #mild 
-	<img class="image" src="" width="140">
+	#woodstock #mild #24oz #chips 
+	<img class="image" src="https://i.imgur.com/aCP6DXM.png" width="140">
 
 
 ## Best
@@ -1513,6 +1509,12 @@ kanban-plugin: board
 	
 	#claussen #chips #mild #sour #20oz 
 	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092132-kosher-dill-pickle-chips/marketing-view-color-front_611dc748239b48dbeae853d383eaf70265790f39_0b211465a15b0df11011e55ad7ec6402?_a=BAVAfVDW0" width="150">
+- [ ] [Woodstock Organic Kosher Dill Pickle Spears](https://www.woodstock-foods.com/the-goods/product.organic-kosher-dill-pickle-spears-042563016548.html)
+	
+	Somewhere in between. It's quite good but it's a bit weird.
+	
+	#woodstock #mild #spears #24oz 
+	<img class="image" src="https://i.imgur.com/9MdB2oX.png" width="140">
 
 
 ## Bad - Wouldn't Eat
