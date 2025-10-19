@@ -1,3 +1,3 @@
 ---
-image: https://i.imgur.com/CHbltYB.png
+file: https://i.imgur.com/CHbltYB.png
 ---

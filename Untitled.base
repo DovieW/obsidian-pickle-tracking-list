@@ -3,4 +3,7 @@ views:
     name: Table
   - type: cards
     name: View
-    image: file.file
+    order:
+      - file.name
+    image: note.file
+    imageFit: contain
