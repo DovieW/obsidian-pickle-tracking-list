@@ -268,10 +268,6 @@ kanban-plugin: board
 	
 	#claussen #mild #sour #baby #20oz 
 	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700091920-kosher-dill-mini-pickles/marketing-view-color-front_255e808d437cd574ec682c9b7f59485dc3cfe239_cdccfdc1c8031f5370e96ca2ee2ea514?_a=BAVAfVDW0" width="150">
-- [ ] [Claussen Kosher Dill Pickle Chips](https://www.kraftheinz.com/claussen/products/00044700092132-kosher-dill-pickle-chips)
-	
-	#claussen #chips #mild #sour #20oz 
-	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092132-kosher-dill-pickle-chips/marketing-view-color-front_611dc748239b48dbeae853d383eaf70265790f39_0b211465a15b0df11011e55ad7ec6402?_a=BAVAfVDW0" width="150">
 - [ ] [Claussen Kosher Dill Pickle Spears](https://www.kraftheinz.com/claussen/products/00044700092408-kosher-dill-pickle-spears) - [64oz](https://www.kraftheinz.com/claussen/products/00044700091876-kosher-dill-deli-style-pickle-spears) - [80oz](https://www.kraftheinz.com/claussen/products/00044700092958-kosher-dill-deli-style-pickle-spears)
 	
 	#claussen #spears #mild #sour #24oz #64oz #80oz
@@ -1489,6 +1485,12 @@ kanban-plugin: board
 	
 	#uncle_ediks #spears #32oz #mild
 	<img class="image" src="https://i.imgur.com/6GEBsWY.png" width="150">
+- [ ] [Claussen Kosher Dill Pickle Chips](https://www.kraftheinz.com/claussen/products/00044700092132-kosher-dill-pickle-chips)
+	
+	Same annoying Claussen taste
+	
+	#claussen #chips #mild #sour #20oz 
+	<img class="image" src="https://res.cloudinary.com/kraft-heinz-whats-cooking-ca/image/upload/f_auto/q_auto/r_8/c_limit,w_640/f_auto/q_auto/v1/dxp-images/brands/products/00044700092132-kosher-dill-pickle-chips/marketing-view-color-front_611dc748239b48dbeae853d383eaf70265790f39_0b211465a15b0df11011e55ad7ec6402?_a=BAVAfVDW0" width="150">
 
 
 ## Bad - Wouldn't Eat
