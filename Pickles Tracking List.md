@@ -210,10 +210,6 @@ kanban-plugin: board
 	
 	#bnei_darom #jewish #11oz #mild #israeli
 	  <img class="image" src="https://i.imgur.com/LnSODl2.png" width="160">
-- [ ] [Boar's Head Kosher Dill Pickle Chips](https://boarshead.com/products/condiments/16261-kosher-dill-pickle-chip)
-	
-	#26oz #chips #mild #boars_head #wish_list 
-	<img class="image" src="https://i.imgur.com/wSzjd75.png" width="160">
 - [ ] [Bubbies Bread & Butter Chips](https://www.bubbies.com/products/bread-and-butter-chips)
 	
 	#bubbies #chips #sour #sweet 
@@ -1149,6 +1145,8 @@ kanban-plugin: board
 
 - [ ] [Boar's Head Kosher Dill Pickles Whole](https://boarshead.com/products/condiments/487-kosher-dill-pickle-whole-26oz-jar)
 	
+	Good. Not at strong as the others which is good
+	
 	#26oz #mild #wholes #boars_head #wish_list 
 	<img class="image" src="https://i.imgur.com/XdnbFdI.png" width="160">
 - [ ] [Cleveland Kitchen Classic Dill Pickle Spears](https://www.clevelandkitchen.com/pickles/classic-dill-pickle-spears)
@@ -1364,6 +1362,12 @@ kanban-plugin: board
 	
 	#cheese_guy #12oz #mild #baby
 	<img class="image" src="https://i.imgur.com/c4emBf4.png" width="100">
+- [ ] [Boar's Head Kosher Dill Pickle Chips](https://boarshead.com/products/condiments/16261-kosher-dill-pickle-chip)
+	
+	Quite good but too strong
+	
+	#26oz #chips #mild #boars_head #wish_list 
+	<img class="image" src="https://i.imgur.com/wSzjd75.png" width="160">
 - [ ] [Boar's Head Kosher Dill Pickles Spears](https://boarshead.com/products/condiments/486-kosher-dill-pickles-spears-26-oz-jar)
 	
 	#boars_head #26oz #mild #spears #wish_list 
